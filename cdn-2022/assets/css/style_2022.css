@@ -955,6 +955,18 @@ img {
 /* Imagens GRID */
 
 
+.miniCaixaVerde {
+    color: #fff;
+    background-color: #069e6e;
+    border-bottom: 4px solid #027c78;
+    border-radius: 0 10px;
+    font-weight: 600;
+    padding: 5px;
+    margin: 15px 7px 25px 0;
+    font-size: 1em;
+    box-shadow: 1px -1px 3px #3e7996;
+}
+
 
 
 

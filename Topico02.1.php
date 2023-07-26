@@ -45,7 +45,7 @@ include('layout/header.php');
                   <!-- Titulo Figura -->
                   <div class="text-center">
                      <a href="imagens/Figura18.png" data-bs-toggle="modal" data-bs-target="#Imagem18">
-                        <img class="img-fluid wow fadeInLeft" src="imagens/Figura18.png" alt="Alt da imagem fica aqui">
+                        <img class="img-fluid wow fadeInLeft" width="500" src="imagens/Figura18.png" alt="Alt da imagem fica aqui">
                      </a>
                   </div>
 
@@ -71,6 +71,7 @@ include('layout/header.php');
                   <p>Isso acontece em algumas regiões, em determinadas épocas do ano. Contudo, as espécies que habitam a Caatinga foram selecionadas naturalmente ao longo do tempo e desenvolveram estratégias de sobrevivência.</p>
 
                   <p>De acordo com a <a href="https://www.acaatinga.org.br/qual-e-papel-da-caatinga-na-biodiversidade-do-brasil/" target="_blank">Associação Caatinga</a>, na Caatinga já foram registradas 3.150 espécies de plantas, 548 aves, 386 peixes, 276 formigas, 167 répteis e 98 anfíbios e 148 mamíferos. O nível de <strong>endemismo</strong> nesses grupos varia de 6% entre mamíferos a 52,9% entre os peixes, um número bem alto se comparados com outras florestas secas do mundo. Supõe-se que o número real de espécies é ainda maior, visto que uma quantidade significativa da região ainda não foi estudada de forma eficiente.</p>
+                  <br>
 
                   <!-- Fique Atento -->
                   <div class="FiqueAtentoCaixa">
@@ -84,12 +85,12 @@ include('layout/header.php');
                   <div class="bd-callout bd-callout-warning">
                      <p><strong>EXEMPLOS DE FLORA DA CAATINGA</strong></p>
 
-                     <div class="row">
-                        <div class="col-md-3 col-sm-12">
+                     <div class="row align-items-end">
+                        <div class="col-md-4 col-sm-12">
                            <!-- Titulo Figura -->
                            <div class="text-center">
                               <a href="imagens/Figura19.png" data-bs-toggle="modal" data-bs-target="#Imagem19">
-                                 <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" src="imagens/Figura19.png" alt="Alt da imagem fica aqui">
+                                 <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s"  src="imagens/Figura19.png" alt="Alt da imagem fica aqui">
                               </a>
                               <p class="FonteFigura">Aroeira. <br> Foto: J. A. Araújo Filho.</p>
                            </div>
@@ -109,13 +110,13 @@ include('layout/header.php');
                            </div>
                            <!-- Figura 19 - End -->
                         </div>
-                        <div class="col-md-3 col-sm-12">
+                        <div class="col-md-4 col-sm-12">
                            <!-- Titulo Figura -->
                            <div class="text-center">
                               <a href="imagens/Figura22.png" data-bs-toggle="modal" data-bs-target="#Imagem22">
-                                 <img class="img-fluid wow fadeInDown" data-wow-delay="2.0s" src="imagens/Figura22.png" alt="Alt da imagem fica aqui">
+                                 <img class="img-fluid wow fadeInRight" data-wow-delay="1.0s"  src="imagens/Figura22.png" alt="Alt da imagem fica aqui">
                               </a>
-                              <p class="FonteFigura">Xique-xique. <br> Foto: Sérgio Mota</p>
+                              <p class="FonteFigura">Carnaúba. <br> Foto: Marcos Vieira</p>
                            </div>
 
                            <!-- Imagem 22 - MODAL -->
@@ -133,13 +134,13 @@ include('layout/header.php');
                            </div>
                            <!-- Figura 22 - End -->
                         </div>
-                        <div class="col-md-3 col-sm-12">
+                        <div class="col-md-4 col-sm-12">
                            <!-- Titulo Figura -->
                            <div class="text-center">
                               <a href="imagens/Figura21.png" data-bs-toggle="modal" data-bs-target="#Imagem21">
-                                 <img class="img-fluid wow fadeInLeft" data-wow-delay="1.5s" src="imagens/Figura21.png" alt="Alt da imagem fica aqui">
+                                 <img class="img-fluid wow fadeInRight" data-wow-delay="1.5s" src="imagens/Figura21.png" alt="Alt da imagem fica aqui">
                               </a>
-                              <p class="FonteFigura">Carnaúba. <br> Foto: Marcos Vieira</p>
+                              <p class="FonteFigura">Xique-xique. <br> Foto: Sérgio Mota</p>
                            </div>
 
                            <!-- Imagem 21 - MODAL -->
@@ -157,11 +158,11 @@ include('layout/header.php');
                            </div>
                            <!-- Figura 21 - End -->
                         </div>
-                        <div class="col-md-3 col-sm-12">
+                        <div class="col-md-12 col-sm-12">
                            <!-- Titulo Figura -->
                            <div class="text-center">
                               <a href="imagens/Figura20.png" data-bs-toggle="modal" data-bs-target="#Imagem20">
-                                 <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura20.png" alt="Alt da imagem fica aqui">
+                                 <img class="img-fluid wow fadeInRight mt-5" data-wow-delay="2.0s" width="400" src="imagens/Figura20.png" alt="Alt da imagem fica aqui">
                               </a>
                               <p class="FonteFigura">Pau branco. <br> Foto: J. A. Araújo Filho</p>
                            </div>
@@ -190,9 +191,9 @@ include('layout/header.php');
                            <!-- Titulo Figura -->
                            <div class="text-center">
                               <a href="imagens/Figura23.png" data-bs-toggle="modal" data-bs-target="#Imagem23">
-                                 <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura23.png" alt="Alt da imagem fica aqui">
+                                 <img class="img-fluid wow fadeInUp" data-wow-delay="2.5s" width="300" src="imagens/Figura23.png" alt="Alt da imagem fica aqui">
                               </a>
-                              <p class="FonteFigura">Mocó. Foto: Samuel Portela</p>
+                              <p class="FonteFigura">Mocó.<br> Foto: Samuel Portela</p>
                            </div>
 
                            <!-- Imagem 23 - MODAL -->
@@ -214,9 +215,9 @@ include('layout/header.php');
                            <!-- Titulo Figura -->
                            <div class="text-center">
                               <a href="imagens/Figura24.png" data-bs-toggle="modal" data-bs-target="#Imagem24">
-                                 <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura24.png" alt="Alt da imagem fica aqui">
+                                 <img class="img-fluid wow fadeInUp" data-wow-delay="3.0s" width="300" src="imagens/Figura24.png" alt="Alt da imagem fica aqui">
                               </a>
-                              <p class="FonteFigura">Corrupião. Foto: Samuel Portela</p>
+                              <p class="FonteFigura">Corrupião.<br> Foto: Samuel Portela</p>
                            </div>
 
                            <!-- Imagem 24 - MODAL -->
@@ -238,9 +239,9 @@ include('layout/header.php');
                            <!-- Titulo Figura -->
                            <div class="text-center">
                               <a href="imagens/Figura25.png" data-bs-toggle="modal" data-bs-target="#Imagem25">
-                                 <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura25.png" alt="Alt da imagem fica aqui">
+                                 <img class="img-fluid wow fadeInUp" data-wow-delay="3.5s" width="260" src="imagens/Figura25.png" alt="Alt da imagem fica aqui">
                               </a>
-                              <p class="FonteFigura"> . Foto: Genário Azevedo </p>
+                              <p class="FonteFigura"> Sapo-cururu. <br> Foto: Genário Azevedo </p>
                            </div>
 
                            <!-- Imagem 25 - MODAL -->
@@ -262,9 +263,9 @@ include('layout/header.php');
                            <!-- Titulo Figura -->
                            <div class="text-center">
                               <a href="imagens/Figura26.png" data-bs-toggle="modal" data-bs-target="#Imagem26">
-                                 <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura26.png" alt="Alt da imagem fica aqui">
+                                 <img class="img-fluid wow fadeInUp" data-wow-delay="4.0s" width="278" src="imagens/Figura26.png" alt="Alt da imagem fica aqui">
                               </a>
-                              <p class="FonteFigura">Cobra-verde. Foto: Samuel Portela.</p>
+                              <p class="FonteFigura">Cobra-verde. <br> Foto: Samuel Portela.</p>
                            </div>
 
                            <!-- Imagem 26 - MODAL -->

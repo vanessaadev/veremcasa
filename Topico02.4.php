@@ -33,7 +33,7 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title">
 
-                    <p class="SubTitulo">BIODIVERSIDADE NATIVA E EXÓTICA</p>
+                        <p class="SubTitulo">BIODIVERSIDADE NATIVA E EXÓTICA</p>
                         <hr>
                         <br>
 
@@ -41,13 +41,13 @@ include('layout/header.php');
                         <p><strong>Espécie nativa é uma espécie natural de um determinado ecossistema ou bioma.</strong> Ao longo da história, ela se desenvolveu naquele ambiente em conjunto com outras espécies, criando inter-relações que culminaram no equilíbrio ecológico da região. Então, podemos afirmar que uma espécie nativa é importantíssima para que um ecossistema ou bioma continue em harmonia.</p>
 
                         <div class="row">
-                            <div class="col-md-3 col-sm-12">
+                            <div class="col-md-6 col-sm-12">
                                 <!-- Titulo Figura -->
                                 <div class="text-center">
                                     <a href="imagens/Figura44.png" data-bs-toggle="modal" data-bs-target="#Imagem44">
-                                        <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura44.png" alt="Alt da imagem fica aqui">
+                                        <img class="img-fluid wow fadeInUp" data-wow-delay="0.5s" width="400" src="imagens/Figura44.png" alt="Alt da imagem fica aqui">
                                     </a>
-                                    <p class="FonteFigura">Tatu-bola, mamífero nativo da Caatinga. Foto: Associação Caatinga</p>
+                                    <p class="FonteFigura">Tatu-bola, mamífero nativo da Caatinga.<br> Foto: Associação Caatinga</p>
                                 </div>
 
                                 <!-- Imagem 44 - MODAL -->
@@ -65,13 +65,13 @@ include('layout/header.php');
                                 </div>
                                 <!-- Figura 44 - End -->
                             </div>
-                            <div class="col-md-3 col-sm-12">
+                            <div class="col-md-6 col-sm-12">
                                 <!-- Titulo Figura -->
                                 <div class="text-center">
                                     <a href="imagens/Figura45.png" data-bs-toggle="modal" data-bs-target="#Imagem45">
-                                        <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura45.png" alt="Alt da imagem fica aqui">
+                                        <img class="img-fluid wow fadeInRight" data-wow-delay="1.0s" width="600" src="imagens/Figura45.png" alt="Alt da imagem fica aqui">
                                     </a>
-                                    <p class="FonteFigura"> Umbuzeiro, árvore nativa da Caatinga. Foto: EMBRAPA</p>
+                                    <p class="FonteFigura"> Umbuzeiro, árvore nativa da Caatinga.<br> Foto: EMBRAPA</p>
                                 </div>
 
                                 <!-- Imagem 45 - MODAL -->
@@ -89,13 +89,13 @@ include('layout/header.php');
                                 </div>
                                 <!-- Figura 45 - End -->
                             </div>
-                            <div class="col-md-3 col-sm-12">
+                            <div class="col-md-6 col-sm-12">
                                 <!-- Titulo Figura -->
                                 <div class="text-center">
                                     <a href="imagens/Figura46.png" data-bs-toggle="modal" data-bs-target="#Imagem46">
-                                        <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura46.png" alt="Alt da imagem fica aqui">
+                                        <img class="img-fluid wow fadeInLeft" data-wow-delay="1.5s" width="600" src="imagens/Figura46.png" alt="Alt da imagem fica aqui">
                                     </a>
-                                    <p class="FonteFigura">Periquito-cara-suja, ave nativa e endêmica da Mata Atlântica. Foto: SEMA.</p>
+                                    <p class="FonteFigura">Periquito-cara-suja, ave nativa e endêmica da Mata Atlântica.<br> Foto: SEMA.</p>
                                 </div>
 
                                 <!-- Imagem 46 - MODAL -->
@@ -113,13 +113,13 @@ include('layout/header.php');
                                 </div>
                                 <!-- Figura 46 - End -->
                             </div>
-                            <div class="col-md-3 col-sm-12">
+                            <div class="col-md-6 col-sm-12">
                                 <!-- Titulo Figura -->
                                 <div class="text-center">
                                     <a href="imagens/Figura47.png" data-bs-toggle="modal" data-bs-target="#Imagem47">
-                                        <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura47.png" alt="Alt da imagem fica aqui">
+                                        <img class="img-fluid wow fadeInDown" data-wow-delay="2.0s" width="540" src="imagens/Figura47.png" alt="Alt da imagem fica aqui">
                                     </a>
-                                    <p class="FonteFigura"> Facheiro, planta nativa e endêmica da Caatinga. Foto: Wikipedia.</p>
+                                    <p class="FonteFigura"> Facheiro, planta nativa e endêmica da Caatinga.<br> Foto: Wikipedia.</p>
                                 </div>
 
                                 <!-- Imagem 47- MODAL -->
@@ -156,53 +156,57 @@ include('layout/header.php');
 
                         <p><strong>Uma espécie exótica é toda aquela que se encontra fora de sua área de distribuição natural, isto é, que não é originária ou nativa de um determinado local.</strong> Ela pode ter sido trazida para uma região intencionalmente ou acidentalmente pelo ser humano.</p>
 
-
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura48.png" data-bs-toggle="modal" data-bs-target="#Imagem48">
-                                <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura48.png" alt="Alt da imagem fica aqui">
-                            </a>
-                            <p class="FonteFigura"> Bananeira é uma espécie exótica, trazida da Ásia. Foto: Afe.</p>
-                        </div>
-
-                        <!-- Imagem 48- MODAL -->
-                        <div class="modal fade text-center" id="Imagem48" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura48.png" alt="Alt da imagem fica aqui">
-                                    </div>
-                                    <div class="modal-footer text-center">
-                                    </div>
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12">
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura48.png" data-bs-toggle="modal" data-bs-target="#Imagem48">
+                                        <img class="img-fluid wow fadeInUp" data-wow-delay="0.5s" width="440" src="imagens/Figura48.png" alt="Alt da imagem fica aqui">
+                                    </a>
+                                    <p class="FonteFigura"> Bananeira é uma espécie exótica, trazida da Ásia.<br> Foto: Afe.</p>
                                 </div>
 
-                            </div>
-                        </div>
-                        <!-- Figura 48 - End -->
+                                <!-- Imagem 48- MODAL -->
+                                <div class="modal fade text-center" id="Imagem48" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura48.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                            </div>
+                                        </div>
 
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura49.png" data-bs-toggle="modal" data-bs-target="#Imagem49">
-                                <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura49.png" alt="Alt da imagem fica aqui">
-                            </a>
-                            <p class="FonteFigura"> Coqueiro é uma espécie exótica, trazida da África. Foto: FazFácil.
-                            </p>
-                        </div>
-
-                        <!-- Imagem 49- MODAL -->
-                        <div class="modal fade text-center" id="Imagem49" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura49.png" alt="Alt da imagem fica aqui">
-                                    </div>
-                                    <div class="modal-footer text-center">
                                     </div>
                                 </div>
+                                <!-- Figura 48 - End -->
+                            </div>
+                            <div class="col-md-6 col-sm-12">
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura49.png" data-bs-toggle="modal" data-bs-target="#Imagem49">
+                                        <img class="img-fluid wow fadeInDown" data-wow-delay="1.0s" width="500" src="imagens/Figura49.png" alt="Alt da imagem fica aqui">
+                                    </a>
+                                    <p class="FonteFigura"> Coqueiro é uma espécie exótica, trazida da África. <br>Foto: FazFácil. </p>
+                                </div>
 
+                                <!-- Imagem 49- MODAL -->
+                                <div class="modal fade text-center" id="Imagem49" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura49.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Figura 49 - End -->
                             </div>
                         </div>
-                        <!-- Figura 49 - End -->
+                        <br><br>
 
                         <!-- Importante -->
                         <div class="ImportanteCaixa">
@@ -219,7 +223,7 @@ include('layout/header.php');
                                 <!-- Titulo Figura -->
                                 <div class="text-center">
                                     <a href="imagens/Figura50.png" data-bs-toggle="modal" data-bs-target="#Imagem50">
-                                        <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura50.png" alt="Alt da imagem fica aqui">
+                                        <img class="img-fluid wow fadeInLeft" data-wow-delay="1.0s" width="400" src="imagens/Figura50.png" alt="Alt da imagem fica aqui">
                                     </a>
                                 </div>
 
@@ -242,7 +246,7 @@ include('layout/header.php');
                                 <!-- Titulo Figura -->
                                 <div class="text-center">
                                     <a href="imagens/Figura51.png" data-bs-toggle="modal" data-bs-target="#Imagem51">
-                                        <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura51.png" alt="Alt da imagem fica aqui">
+                                        <img class="img-fluid wow fadeInRight" data-wow-delay="1.0s" width="400" src="imagens/Figura51.png" alt="Alt da imagem fica aqui">
                                     </a>
                                 </div>
 
@@ -264,16 +268,17 @@ include('layout/header.php');
                         </div>
 
 
-                        <p class="FonteFigura text-center">A Unha-do-cão ou Viuvinha é a principal espécie vegetal invasora no Ceará. Ela encobre principalmente as carnaúbas, impedindo a fotossíntese. Fotos: Selma Freire de Brito.</p>
+                        <p class="FonteFigura text-center">A Unha-do-cão ou Viuvinha é a principal espécie vegetal invasora no Ceará. Ela encobre principalmente as carnaúbas, impedindo a fotossíntese. <br>Fotos: Selma Freire de Brito.</p>
+                        <br><br>
 
                         <div class="row">
                             <div class="col-md-6 col-sm-12">
                                 <!-- Titulo Figura -->
                                 <div class="text-center">
                                     <a href="imagens/Figura52.png" data-bs-toggle="modal" data-bs-target="#Imagem52">
-                                        <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura52.png" alt="Alt da imagem fica aqui">
+                                        <img class="img-fluid wow fadeInRight" data-wow-delay="1.5s" width="500" src="imagens/Figura52.png" alt="Alt da imagem fica aqui">
                                     </a>
-                                    <p class="FonteFigura">O pardal, natural do Oriente Médio, ocupa abrigos e compete pelos mesmos alimentos com espécies nativas. Foto: InfoEscola. </p>
+                                    <p class="FonteFigura">O pardal, natural do Oriente Médio, ocupa abrigos e compete pelos mesmos alimentos com espécies nativas. <br>Foto: InfoEscola. </p>
                                 </div>
 
                                 <!-- Imagem 52 - MODAL -->
@@ -295,9 +300,9 @@ include('layout/header.php');
                                 <!-- Titulo Figura -->
                                 <div class="text-center">
                                     <a href="imagens/Figura53.png" data-bs-toggle="modal" data-bs-target="#Imagem53">
-                                        <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura53.png" alt="Alt da imagem fica aqui">
+                                        <img class="img-fluid wow fadeInLeft" data-wow-delay="2.0s" width="700" src="imagens/Figura53.png" alt="Alt da imagem fica aqui">
                                     </a>
-                                    <p class="FonteFigura"> O caramujo-gigante-africano destrói plantações e altera a dieta de animais nativos. Foto: Wikipedia.</p>
+                                    <p class="FonteFigura"> O caramujo-gigante-africano destrói plantações e altera a dieta de animais nativos. <br>Foto: Wikipedia.</p>
                                 </div>
 
                                 <!-- Imagem 53- MODAL -->
@@ -331,33 +336,70 @@ include('layout/header.php');
                         <div class="ImportanteCaixa">
                             <p class="ImportanteTitulo"> Importante</p>
                             <div class="ImportanteTexto">
-                                <p>Você já ouviu falar da árvore Nim Indiano? É uma espécie trazida da Índia para arborizar as cidades do Nordeste. Cresce rápido, faz sombra, “suja” pouco. Parece uma maravilha para os seres humanos. Mas, por desconhecimento, ela acabou se tornando uma espécie invasora. Além de se propagar sem controle, ela possui uma substância que causa infertilidade em pássaros e insetos, afetando o equilíbrio ecológico. Tem Nim na sua região? Que tal pensar no projeto <strong>Nim Não! Nativa Sim!</strong></p>
+                                <p>Você já ouviu falar da árvore <strong>Nim Indiano</strong>? É uma espécie trazida da Índia para arborizar as cidades do Nordeste. Cresce rápido, faz sombra, “suja” pouco. Parece uma maravilha para os seres humanos. Mas, por desconhecimento, ela acabou se tornando uma espécie invasora. Além de se propagar sem controle, ela possui uma substância que causa infertilidade em pássaros e insetos, afetando o equilíbrio ecológico. Tem Nim na sua região? Que tal pensar no projeto <strong>Nim Não! Nativa Sim!</strong></p>
+
+                                <div class="row">
+                                    <div class="col-sm-12 col-md-6">
+                                        <!-- Titulo Figura -->
+                                        <div class="text-center">
+                                            <a href="imagens/Figura54.png" data-bs-toggle="modal" data-bs-target="#Imagem54">
+                                                <img class="img-fluid wow fadeInUp" data-wow-delay="0.5s"  src="imagens/Figura54.png" alt="Alt da imagem fica aqui">
+                                            </a>
+                                        </div>
+
+                                        <!-- Imagem 54- MODAL -->
+                                        <div class="modal fade text-center" id="Imagem54" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <img class="img-fluid" src="imagens/Figura54.png" alt="Alt da imagem fica aqui">
+                                                    </div>
+                                                    <div class="modal-footer text-center">
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                        <!-- Figura 54 - End -->
+                                    </div>
+                                    <div class="col-sm-12 col-md-6">
+                                        <!-- Titulo Figura -->
+                                        <div class="text-center">
+                                            <a href="imagens/Figura55.png" data-bs-toggle="modal" data-bs-target="#Imagem55">
+                                                <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="380" src="imagens/Figura55.png" alt="Alt da imagem fica aqui">
+                                            </a>
+                                        </div>
+
+                                        <!-- Imagem 55- MODAL -->
+                                        <div class="modal fade text-center" id="Imagem55" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <img class="img-fluid" src="imagens/Figura55.png" alt="Alt da imagem fica aqui">
+                                                    </div>
+                                                    <div class="modal-footer text-center">
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                        <!-- Figura 55 - End -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <p class="FonteFigura text-center"> Nim Indiano é uma espécie invasora muito comum nas cidades cearenses.</p>
                             </div>
                         </div>
                         <br><br>
 
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura54.png" data-bs-toggle="modal" data-bs-target="#Imagem54">
-                                <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura54.png" alt="Alt da imagem fica aqui">
-                            </a>
-                            <p class="FonteFigura"> Nim Indiano é uma espécie invasora muito comum nas cidades cearenses.</p>
-                        </div>
 
-                        <!-- Imagem 54- MODAL -->
-                        <div class="modal fade text-center" id="Imagem54" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura54.png" alt="Alt da imagem fica aqui">
-                                    </div>
-                                    <div class="modal-footer text-center">
-                                    </div>
-                                </div>
 
-                            </div>
-                        </div>
-                        <!-- Figura 54 - End -->
+
+
+
 
 
 

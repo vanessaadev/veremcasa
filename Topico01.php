@@ -244,302 +244,302 @@ include('layout/header.php');
 
                             </div>
                         </div>
-                    </div>
 
 
-                    <p class="FonteFigura text-center">A diversidade de frutos encontrados no Ceará: caju, tamarindo, siriguela e ameixa.
-                        <br> Fotos: Google.
-                    </p>
+                        <p class="FonteFigura text-center">A diversidade de frutos encontrados no Ceará: caju, tamarindo, siriguela e ameixa.
+                            <br> Fotos: Google.
+                        </p>
 
 
-                    <p>Nessa luta pela diversidade é preciso unir esforços. Do doutor ao agricultor, do menino ao idoso, homem, mulher e quem mais quiser ver a vida fluir. Nessa luta, você AJA, é peça fundamental. Educando, conscientizando, organizando as ações de preservação através de seus Planos de Ação Comunitária.</p>
+                        <p>Nessa luta pela diversidade é preciso unir esforços. Do doutor ao agricultor, do menino ao idoso, homem, mulher e quem mais quiser ver a vida fluir. Nessa luta, você AJA, é peça fundamental. Educando, conscientizando, organizando as ações de preservação através de seus Planos de Ação Comunitária.</p>
 
-                    <!-- Titulo Figura -->
-                    <div class="text-center">
-                        <a href="imagens/Figura08.png" data-bs-toggle="modal" data-bs-target="#Imagem08">
-                            <img class="img-fluid wow fadeInLeft" width="800" src="imagens/Figura08.png" alt="Alt da imagem fica aqui">
-                        </a>
-                        <p class="FonteFigura">PAC Abelhas Sem Ferrão conscientiza os visitantes do Parque Estadual Botânico, em Caucaia/CE, sobre a importância das abelhas nativas. Foto: @ajaabelhassemferrao</p>
-                    </div>
-
-                    <!-- Imagem 08 - MODAL -->
-                    <div class="modal fade text-center" id="Imagem08" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-centered modal-lg">
-                            <div class="modal-content">
-                                <div class="modal-body">
-                                    <img class="img-fluid" src="imagens/Figura08.png" alt="Alt da imagem fica aqui">
-                                </div>
-                                <div class="modal-footer text-center">
-                                </div>
-                            </div>
-
+                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura08.png" data-bs-toggle="modal" data-bs-target="#Imagem08">
+                                <img class="img-fluid wow fadeInLeft" width="800" src="imagens/Figura08.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura">PAC Abelhas Sem Ferrão conscientiza os visitantes do Parque Estadual Botânico, em Caucaia/CE, sobre a importância das abelhas nativas. Foto: @ajaabelhassemferrao</p>
                         </div>
-                    </div>
-                    <!-- Figura 08 - End -->
 
-                    <div class="FiveCols">
-                        <div class="grid-container" style="grid-template-columns: repeat(2, 1fr);">
-                            <!-- Titulo Figura -->
-                            <div class="text-center">
-                                <a href="imagens/Figura09.jpg" data-bs-toggle="modal" data-bs-target="#Imagem09">
-                                    <img class="img-fluid wow fadeInUp" width="413" src="imagens/Figura09.jpg" alt="Alt da imagem fica aqui">
-                                </a>
-                            </div>
-
-                            <!-- Imagem 09 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem09" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                <div class="modal-dialog modal-dialog-centered modal-lg">
-                                    <div class="modal-content">
-                                        <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura09.jpg" alt="Alt da imagem fica aqui">
-                                        </div>
-                                        <div class="modal-footer text-center">
-                                        </div>
+                        <!-- Imagem 08 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem08" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura08.png" alt="Alt da imagem fica aqui">
                                     </div>
-
-                                </div>
-                            </div>
-                            <!-- Figura 09 - End -->
-
-                            <!-- Titulo Figura -->
-                            <div class="text-center">
-                                <a href="imagens/Figura09_1.png" data-bs-toggle="modal" data-bs-target="#Imagem09_1">
-                                    <img class="img-fluid wow fadeInDown" src="imagens/Figura09_1.png" alt="Alt da imagem fica aqui">
-                                </a>
-
-                            </div>
-
-                            <!-- Imagem 09_1 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem09_1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                <div class="modal-dialog modal-dialog-centered modal-lg">
-                                    <div class="modal-content">
-                                        <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura09_1.png" alt="Alt da imagem fica aqui">
-                                        </div>
-                                        <div class="modal-footer text-center">
-                                        </div>
+                                    <div class="modal-footer text-center">
                                     </div>
-
                                 </div>
-                            </div>
-                            <!-- Figura 09_1 - End -->
-
-                        </div>
-                    </div>
-                    <p class="FonteFigura text-center">Os animais domésticos também fazem parte da biodiversidade e precisam de PACs para sua proteção.<br> Fotos: @comedouroparapetnapraia e @ajasdeitapaje</p>
-
-
-                    <!-- Saiba Mais -->
-                    <div class="SaibaMaisCaixa">
-                        <p class="SaibaMaisTitulo"> Saiba Mais</p>
-                        <div class="SaibaMaisTexto">
-                            <p>Os animais domésticos são aqueles que, ao longo de milhares de anos, passaram por um processo de domesticação e, portanto, estão acostumados com a presença humana. Eles foram domesticados para atender alguma necessidade do ser humano, seja de alimentação, transporte, entretenimento ou proteção. <a href="https://www.sema.ce.gov.br/wp-content/uploads/sites/36/2018/11/Cartilha-contra-abandono-de-animais.pdf" target="_blank">Confira mais informações sobre os cuidados com os animais domésticos nesta cartilha</a>.</p>
-                        </div>
-                    </div>
-                    <br><br>
-
-                    <div class="FiveCols">
-                        <div class="grid-container">
-                            <!-- Titulo Figura -->
-                            <div class="text-center">
-                                <a href="imagens/Figura10.jpg" data-bs-toggle="modal" data-bs-target="#Imagem10">
-                                    <img class="img-fluid wow fadeInLeft" data-wow-delay="0.5s" src="imagens/Figura10.jpg" alt="Alt da imagem fica aqui">
-                                </a>
 
                             </div>
+                        </div>
+                        <!-- Figura 08 - End -->
 
-                            <!-- Imagem 10 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem10" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                <div class="modal-dialog modal-dialog-centered modal-lg">
-                                    <div class="modal-content">
-                                        <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura10.jpg" alt="Alt da imagem fica aqui">
+                        <br>
+                        <div class="FiveCols">
+                            <div class="grid-container" style="grid-template-columns: repeat(2, 1fr);">
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura09.jpg" data-bs-toggle="modal" data-bs-target="#Imagem09">
+                                        <img class="img-fluid wow fadeInUp" width="413" src="imagens/Figura09.jpg" alt="Alt da imagem fica aqui">
+                                    </a>
+                                </div>
+
+                                <!-- Imagem 09 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem09" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura09.jpg" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                            </div>
                                         </div>
-                                        <div class="modal-footer text-center">
-                                        </div>
+
                                     </div>
+                                </div>
+                                <!-- Figura 09 - End -->
+
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura09_1.png" data-bs-toggle="modal" data-bs-target="#Imagem09_1">
+                                        <img class="img-fluid wow fadeInDown" src="imagens/Figura09_1.png" alt="Alt da imagem fica aqui">
+                                    </a>
 
                                 </div>
-                            </div>
-                            <!-- Figura 10 - End -->
 
-                            <!-- Titulo Figura -->
-                            <div class="text-center">
-                                <a href="imagens/Figura11.jpg" data-bs-toggle="modal" data-bs-target="#Imagem11">
-                                    <img class="img-fluid wow fadeInLeft" data-wow-delay="1.0s" src="imagens/Figura11.jpg" alt="Alt da imagem fica aqui">
-                                </a>
-
-                            </div>
-
-                            <!-- Imagem 11 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem11" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                <div class="modal-dialog modal-dialog-centered modal-lg">
-                                    <div class="modal-content">
-                                        <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura11.jpg" alt="Alt da imagem fica aqui">
+                                <!-- Imagem 09_1 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem09_1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura09_1.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                            </div>
                                         </div>
-                                        <div class="modal-footer text-center">
-                                        </div>
+
                                     </div>
+                                </div>
+                                <!-- Figura 09_1 - End -->
+
+                            </div>
+                        </div>
+                        <p class="FonteFigura text-center">Os animais domésticos também fazem parte da biodiversidade e precisam de PACs para sua proteção.<br> Fotos: @comedouroparapetnapraia e @ajasdeitapaje</p>
+
+
+                        <!-- Saiba Mais -->
+                        <div class="SaibaMaisCaixa">
+                            <p class="SaibaMaisTitulo"> Saiba Mais</p>
+                            <div class="SaibaMaisTexto">
+                                <p>Os animais domésticos são aqueles que, ao longo de milhares de anos, passaram por um processo de domesticação e, portanto, estão acostumados com a presença humana. Eles foram domesticados para atender alguma necessidade do ser humano, seja de alimentação, transporte, entretenimento ou proteção. <a href="https://www.sema.ce.gov.br/wp-content/uploads/sites/36/2018/11/Cartilha-contra-abandono-de-animais.pdf" target="_blank">Confira mais informações sobre os cuidados com os animais domésticos nesta cartilha</a>.</p>
+                            </div>
+                        </div>
+                        <br><br>
+
+                        <div class="FiveCols">
+                            <div class="grid-container">
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura10.jpg" data-bs-toggle="modal" data-bs-target="#Imagem10">
+                                        <img class="img-fluid wow fadeInLeft" data-wow-delay="0.5s" src="imagens/Figura10.jpg" alt="Alt da imagem fica aqui">
+                                    </a>
 
                                 </div>
-                            </div>
-                            <!-- Figura 11 - End -->
 
-                            <!-- Titulo Figura -->
-                            <div class="text-center">
-                                <a href="imagens/Figura12.jpg" data-bs-toggle="modal" data-bs-target="#Imagem12">
-                                    <img class="img-fluid wow fadeInLeft" data-wow-delay="1.5s" src="imagens/Figura12.jpg" alt="Alt da imagem fica aqui">
-                                </a>
-
-                            </div>
-
-                            <!-- Imagem 12 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem12" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                <div class="modal-dialog modal-dialog-centered modal-lg">
-                                    <div class="modal-content">
-                                        <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura12.jpg" alt="Alt da imagem fica aqui">
+                                <!-- Imagem 10 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem10" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura10.jpg" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                            </div>
                                         </div>
-                                        <div class="modal-footer text-center">
-                                        </div>
+
                                     </div>
+                                </div>
+                                <!-- Figura 10 - End -->
+
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura11.jpg" data-bs-toggle="modal" data-bs-target="#Imagem11">
+                                        <img class="img-fluid wow fadeInLeft" data-wow-delay="1.0s" src="imagens/Figura11.jpg" alt="Alt da imagem fica aqui">
+                                    </a>
 
                                 </div>
-                            </div>
-                            <!-- Figura 12 - End -->
 
-                            <!-- Titulo Figura -->
-                            <div class="text-center">
-                                <a href="imagens/Figura13.jpg" data-bs-toggle="modal" data-bs-target="#Imagem13">
-                                    <img class="img-fluid wow fadeInLeft" data-wow-delay="2.0s" src="imagens/Figura13.jpg" alt="Alt da imagem fica aqui">
-                                </a>
-
-                            </div>
-
-                            <!-- Imagem 13 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem13" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                <div class="modal-dialog modal-dialog-centered modal-lg">
-                                    <div class="modal-content">
-                                        <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura13.jpg" alt="Alt da imagem fica aqui">
+                                <!-- Imagem 11 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem11" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura11.jpg" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                            </div>
                                         </div>
-                                        <div class="modal-footer text-center">
-                                        </div>
+
                                     </div>
+                                </div>
+                                <!-- Figura 11 - End -->
+
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura12.jpg" data-bs-toggle="modal" data-bs-target="#Imagem12">
+                                        <img class="img-fluid wow fadeInLeft" data-wow-delay="1.5s" src="imagens/Figura12.jpg" alt="Alt da imagem fica aqui">
+                                    </a>
 
                                 </div>
-                            </div>
-                            <!-- Figura 13 - End -->
 
-                            <!-- Titulo Figura -->
-                            <div class="text-center">
-                                <a href="imagens/Figura14.jpg" data-bs-toggle="modal" data-bs-target="#Imagem14">
-                                    <img class="img-fluid wow fadeInLeft" data-wow-delay="2.5s" src="imagens/Figura14.jpg" alt="Alt da imagem fica aqui">
-                                </a>
-
-                            </div>
-
-                            <!-- Imagem 14 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem14" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                <div class="modal-dialog modal-dialog-centered modal-lg">
-                                    <div class="modal-content">
-                                        <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura14.jpg" alt="Alt da imagem fica aqui">
+                                <!-- Imagem 12 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem12" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura12.jpg" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                            </div>
                                         </div>
-                                        <div class="modal-footer text-center">
-                                        </div>
+
                                     </div>
+                                </div>
+                                <!-- Figura 12 - End -->
+
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura13.jpg" data-bs-toggle="modal" data-bs-target="#Imagem13">
+                                        <img class="img-fluid wow fadeInLeft" data-wow-delay="2.0s" src="imagens/Figura13.jpg" alt="Alt da imagem fica aqui">
+                                    </a>
 
                                 </div>
+
+                                <!-- Imagem 13 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem13" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura13.jpg" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Figura 13 - End -->
+
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura14.jpg" data-bs-toggle="modal" data-bs-target="#Imagem14">
+                                        <img class="img-fluid wow fadeInLeft" data-wow-delay="2.5s" src="imagens/Figura14.jpg" alt="Alt da imagem fica aqui">
+                                    </a>
+
+                                </div>
+
+                                <!-- Imagem 14 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem14" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura14.jpg" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Figura 14 - End -->
                             </div>
-                            <!-- Figura 14 - End -->
                         </div>
-                    </div>
 
-                    <p class="FonteFigura text-center">Os fungos são os recicladores da matéria orgânica na natureza. Fotos: Sérgio Mota.</p>
-                    <br><br>
-
+                        <p class="FonteFigura text-center">Os fungos são os recicladores da matéria orgânica na natureza. <br> Fotos: Sérgio Mota.</p>
+                        <br><br>
 
 
-                    <!-- Titulo Figura -->
-                    <div class="text-center">
-                        <a href="imagens/Figura15.png" data-bs-toggle="modal" data-bs-target="#Imagem15">
-                            <img class="img-fluid wow fadeIn" src="imagens/Figura15.png" alt="Alt da imagem fica aqui">
-                        </a>
-                        <p class="FonteFigura">Diversidade de aves no Ceará: Choca-do-nordeste (Sakesphorus cristatus), Tucaninho-da-serra (Selenidera gouldii baturitensis), Pica-pau-dourado-escuro (Piculus chrysochloros), Mãe-da-lua (Nyctibius griseus), Galo-campina (Paroaria dominicana) e Besourinho-de-bico-vermelho (Chlorostilbon lucidus). <br>Fotos: Manoel Monte, Douglas Pinheiro e Adilene Albuquerque. </p>
-                    </div>
 
-                    <!-- Imagem 15 - MODAL -->
-                    <div class="modal fade text-center" id="Imagem15" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-centered modal-lg">
-                            <div class="modal-content">
-                                <div class="modal-body">
-                                    <img class="img-fluid" src="imagens/Figura15.png" alt="Alt da imagem fica aqui">
+                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura15.png" data-bs-toggle="modal" data-bs-target="#Imagem15">
+                                <img class="img-fluid wow fadeIn" width="800" src="imagens/Figura15.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura">Diversidade de aves no Ceará: Choca-do-nordeste (Sakesphorus cristatus), <br>Tucaninho-da-serra (Selenidera gouldii baturitensis), Pica-pau-dourado-escuro (Piculus chrysochloros), <br>Mãe-da-lua (Nyctibius griseus), Galo-campina (Paroaria dominicana) e Besourinho-de-bico-vermelho (Chlorostilbon lucidus). <br>Fotos: Manoel Monte, Douglas Pinheiro e Adilene Albuquerque. </p>
+                        </div>
+
+                        <!-- Imagem 15 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem15" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura15.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                    </div>
                                 </div>
-                                <div class="modal-footer text-center">
-                                </div>
+
                             </div>
-
                         </div>
-                    </div>
-                    <!-- Figura 15 - End -->
+                        <!-- Figura 15 - End -->
 
 
-                    <!-- Curiosidade -->
-                    <div class="CuriosidadeCaixa">
-                        <p class="CuriosidadeTitulo"> Curiosidade</p>
-                        <div class="CuriosidadeTexto">
-                            <p><strong>Biodiversidade no Mundo e no Brasil</strong></p>
-                            <p>De acordo com a <strong><em>WWF</em></strong>, existem entre 10 e 50 milhões de espécies de animais e plantas na Terra. Porém, apenas 1,5 milhão foi catalogada.</p>
-                            <p>Já no Brasil, segundo o Ministério do Meio Ambiente e Mudança do Clima (MMA), o “somos o país com a maior biodiversidade do mundo. São mais de 116.000 espécies animais e mais de 46.000 espécies vegetais conhecidas no País.” Essa diversidade de vida abriga mais de 20% do total de espécies do mundo encontradas em terra e água.</p>
-                        </div>
-                    </div>
-                    <br><br>
-
-                    <!-- Importante -->
-                    <div class="ImportanteCaixa">
-                        <p class="ImportanteTitulo"> Importante</p>
-                        <div class="ImportanteTexto">
-                            <p>É da biodiversidade que provém os nossos alimentos; os remédios para nossa saúde; a matéria-prima para construir nossos abrigos, nossas casas; o ar que respiramos, a água que mata nossa sede, e até a alegria de nossas festas e tradições provém da nossa biodiversidade. É preciso então conhecê-la, pois só se ama e se protege aquilo que conhecemos.</p>
-                            <p>Mas não é só de fauna e flora que vive a nossa riqueza em diversidade genética. Nosso País abriga uma rica sociobiodiversidade, constituída por mais de 300 povos indígenas e diversas comunidades quilombolas, caiçaras e seringueiros, os quais possuem imensurável conhecimento acerca da conservação da biodiversidade.</p>
-                        </div>
-                    </div>
-                    <br><br>
-
-                    <!-- Fique Atento -->
-                    <div class="FiqueAtentoCaixa">
-                        <p class="FiqueAtentoTitulo"> Fique Atento</p>
-                        <div class="FiqueAtentoTexto">
-                            <p><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> O <strong>Programa Cientista-Chefe Meio Ambiente</strong> catalogou e lançou dois inventários da biodiversidade cearense:</p>
-                            <p><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> O <strong>Inventário da Fauna do Ceará</strong> catalogou <strong>1.275 espécies animais</strong>, sendo 140 mamíferos, 133 répteis, 57 anfíbios, 443 aves e 502 peixes. <a href="https://www.sema.ce.gov.br/fauna-do-ceara/" target="_blank">CLIQUE AQUI para acessar</a></p>
-                            <p><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> O <strong>Inventário da Flora do Ceará</strong> catalogou <strong>2.465 espécies de plantas com flores e frutos</strong>. <a href="https://www.sema.ce.gov.br/flora-do-ceara/" target="_blank">CLIQUE AQUI para acessar</a>.</p>
-                        </div>
-                    </div>
-                    <br><br>
-
-                    <!-- Titulo Figura -->
-                    <div class="text-center">
-                        <a href="imagens/Figura16.png" data-bs-toggle="modal" data-bs-target="#Imagem16">
-                            <img class="img-fluid wow fadeInLeft" src="imagens/Figura16.png" alt="Alt da imagem fica aqui">
-                        </a>
-                        <p class="FonteFigura">Diversidade de espécies no Ceará é impressionante! Cobra-verde (Philodryas olfersii), Papa-vento (Enyalius bibronii), Tartaruga-de-pente (Eretmochelys imbricata), Caranguejo-Uça (Ucides cordatus), Aranha - prateada (Argiope argentata) e Marinha-farinha (Ocypode quadrata). <br> Fotos: Victor Rodrigues, Castiele Holanda, Gabriel Chagas, Célio Alves e Pedro Elder.</p>
-                    </div>
-
-                    <!-- Imagem 16 - MODAL -->
-                    <div class="modal fade text-center" id="Imagem16" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-centered modal-lg">
-                            <div class="modal-content">
-                                <div class="modal-body">
-                                    <img class="img-fluid" src="imagens/Figura16.png" alt="Alt da imagem fica aqui">
-                                </div>
-                                <div class="modal-footer text-center">
-                                </div>
+                        <!-- Curiosidade -->
+                        <div class="CuriosidadeCaixa">
+                            <p class="CuriosidadeTitulo"> Curiosidade</p>
+                            <div class="CuriosidadeTexto">
+                                <p><strong>Biodiversidade no Mundo e no Brasil</strong></p>
+                                <p>De acordo com a <strong><em>WWF</em></strong>, existem entre 10 e 50 milhões de espécies de animais e plantas na Terra. Porém, apenas 1,5 milhão foi catalogada.</p>
+                                <p>Já no Brasil, segundo o Ministério do Meio Ambiente e Mudança do Clima (MMA), o “somos o país com a maior biodiversidade do mundo. São mais de 116.000 espécies animais e mais de 46.000 espécies vegetais conhecidas no País.” Essa diversidade de vida abriga mais de 20% do total de espécies do mundo encontradas em terra e água.</p>
                             </div>
-
                         </div>
-                    </div>
-                    <!-- Figura 16 - End -->
+                        <br><br>
+
+                        <!-- Importante -->
+                        <div class="ImportanteCaixa">
+                            <p class="ImportanteTitulo"> Importante</p>
+                            <div class="ImportanteTexto">
+                                <p>É da biodiversidade que provém os nossos alimentos; os remédios para nossa saúde; a matéria-prima para construir nossos abrigos, nossas casas; o ar que respiramos, a água que mata nossa sede, e até a alegria de nossas festas e tradições provém da nossa biodiversidade. É preciso então conhecê-la, pois só se ama e se protege aquilo que conhecemos.</p>
+                                <p>Mas não é só de fauna e flora que vive a nossa riqueza em diversidade genética. Nosso País abriga uma rica sociobiodiversidade, constituída por mais de 300 povos indígenas e diversas comunidades quilombolas, caiçaras e seringueiros, os quais possuem imensurável conhecimento acerca da conservação da biodiversidade.</p>
+                            </div>
+                        </div>
+                        <br><br>
+
+                        <!-- Fique Atento -->
+                        <div class="FiqueAtentoCaixa">
+                            <p class="FiqueAtentoTitulo"> Fique Atento</p>
+                            <div class="FiqueAtentoTexto">
+                                <p> O <strong>Programa Cientista-Chefe Meio Ambiente</strong> catalogou e lançou dois inventários da biodiversidade cearense:</p>
+                                <p><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> O <strong>Inventário da Fauna do Ceará</strong> catalogou <strong>1.275 espécies animais</strong>, sendo 140 mamíferos, 133 répteis, 57 anfíbios, 443 aves e 502 peixes. <a href="https://www.sema.ce.gov.br/fauna-do-ceara/" target="_blank">CLIQUE AQUI para acessar</a></p>
+                                <p><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> O <strong>Inventário da Flora do Ceará</strong> catalogou <strong>2.465 espécies de plantas com flores e frutos</strong>. <a href="https://www.sema.ce.gov.br/flora-do-ceara/" target="_blank">CLIQUE AQUI para acessar</a>.</p>
+                            </div>
+                        </div>
+                        <br><br>
+
+                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura16.png" data-bs-toggle="modal" data-bs-target="#Imagem16">
+                                <img class="img-fluid wow fadeInLeft" width="800" src="imagens/Figura16.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura">Diversidade de espécies no Ceará é impressionante! Cobra-verde (Philodryas olfersii), Papa-vento (Enyalius bibronii), <br>Tartaruga-de-pente (Eretmochelys imbricata), Caranguejo-Uça (Ucides cordatus), Aranha - prateada (Argiope argentata) e Marinha-farinha (Ocypode quadrata). <br> Fotos: Victor Rodrigues, Castiele Holanda, Gabriel Chagas, Célio Alves e Pedro Elder.</p>
+                        </div>
+
+                        <!-- Imagem 16 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem16" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura16.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 16 - End -->
 
 
 
@@ -547,37 +547,36 @@ include('layout/header.php');
 
 
 
+                        <br><br><!-- SCRIPT LIGHTBOX -->
+                        <script>
+                            $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+                                event.preventDefault();
+                                $(this).ekkoLightbox();
+                            });
 
-                    <br><br><!-- SCRIPT LIGHTBOX -->
-                    <script>
-                        $(document).on('click', '[data-toggle="lightbox"]', function(event) {
-                            event.preventDefault();
-                            $(this).ekkoLightbox();
-                        });
-
-                        $(function() {
-                            $('[data-toggle="tooltip"]').tooltip()
-                        })
-                    </script>
-
+                            $(function() {
+                                $('[data-toggle="tooltip"]').tooltip()
+                            })
+                        </script>
 
 
+
+                    </div> <!-- End page-title -->
                 </div> <!-- End page-title -->
-            </div> <!-- End page-title -->
 
-            <div class="col-md-1"></div>
-        </div> <!-- End row -->
+                <div class="col-md-1"></div>
+            </div> <!-- End row -->
 
-        <!-- Botões de navegação -->
-        <div class="text-center">
-            <a href="Topico02.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
-        </div>
+            <!-- Botões de navegação -->
+            <div class="text-center">
+                <a href="Topico02.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
+            </div>
 
-    </div> <!-- End main-content -->
+        </div> <!-- End main-content -->
 
 
-    <!-- FOOTER -->
-    <?php include('layout/footer.php') ?>
+        <!-- FOOTER -->
+        <?php include('layout/footer.php') ?>
 
     </div> <!-- DIV MAIN FIM -->
 

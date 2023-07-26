@@ -47,16 +47,16 @@ include('layout/header.php');
                         <div class="FiqueAtentoCaixa">
                             <p class="FiqueAtentoTitulo"> Fique Atento</p>
                             <div class="FiqueAtentoTexto">
-                                <p>Você conhece a Mata Atlântica do Ceará?</p>
+                                <p><strong>Você conhece a Mata Atlântica do Ceará?</strong></p>
 
                                 <p>Nem só de Caatinga vive nosso Estado. A Mata Atlântica no Ceará está localizada na Chapada do Araripe, Litoral, Chapada da Ibiapaba, Maciço de Baturité, Serra da Meruoca e Serra de Uruburetama. São áreas de domínio da Mata Atlântica: a Serra da Aratanha, Serra do Machado, Serra das Matas e Serra de Maranguape.</p>
 
                                 <!-- Titulo Figura -->
                                 <div class="text-center">
                                     <a href="imagens/Figura27.png" data-bs-toggle="modal" data-bs-target="#Imagem27">
-                                        <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura27.png" alt="Alt da imagem fica aqui">
+                                        <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s"  src="imagens/Figura27.png" alt="Alt da imagem fica aqui">
                                     </a>
-                                    <p class="FonteFigura">Áreas de Mata Atlântica do Estado do Ceará - <br>Fonte: IBGE 2008</p>
+                                    <p class="FonteFigura">Áreas de Mata Atlântica do Estado do Ceará <br>Fonte: IBGE 2008</p>
                                 </div>
 
                                 <!-- Imagem 27 - MODAL -->
@@ -81,11 +81,11 @@ include('layout/header.php');
                             <p><strong>EXEMPLOS DE FLORA DA MATA ATLÂNTICA NO CEARÁ</strong></p>
 
                             <div class="row">
-                                <div class="col-md-3 col-sm-12">
+                                <div class="col-md-4 col-sm-12">
                                     <!-- Titulo Figura -->
                                     <div class="text-center">
                                         <a href="imagens/Figura28.png" data-bs-toggle="modal" data-bs-target="#Imagem28">
-                                            <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura28.png" alt="Alt da imagem fica aqui">
+                                            <img class="img-fluid wow fadeInLeft" data-wow-delay="0.5s" width="337" src="imagens/Figura28.png" alt="Alt da imagem fica aqui">
                                         </a>
                                         <p class="FonteFigura">Mulungu.<br> Foto: Sérgio Mota</p>
                                     </div>
@@ -105,21 +105,22 @@ include('layout/header.php');
                                     </div>
                                     <!-- Figura 28 - End -->
                                 </div>
-                                <div class="col-md-3 col-sm-12">
+
+                                <div class="col-md-4 col-sm-12">
                                     <!-- Titulo Figura -->
                                     <div class="text-center">
-                                        <a href="imagens/Figura29.png" data-bs-toggle="modal" data-bs-target="#Imagem29">
-                                            <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura29.png" alt="Alt da imagem fica aqui">
+                                        <a href="imagens/Figura31.png" data-bs-toggle="modal" data-bs-target="#Imagem31">
+                                            <img class="img-fluid wow fadeInDown" data-wow-delay="1.5s" width="320" src="imagens/Figura31.png" alt="Alt da imagem fica aqui">
                                         </a>
-                                        <p class="FonteFigura">Gameleira. <br>Foto: recantodacanastra.com.br</p>
+                                        <p class="FonteFigura"> Ipê-amarelo. <br>Foto: wikipedia</p>
                                     </div>
 
-                                    <!-- Imagem 29 - MODAL -->
-                                    <div class="modal fade text-center" id="Imagem29" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <!-- Imagem 31 - MODAL -->
+                                    <div class="modal fade text-center" id="Imagem31" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                         <div class="modal-dialog modal-dialog-centered modal-lg">
                                             <div class="modal-content">
                                                 <div class="modal-body">
-                                                    <img class="img-fluid" src="imagens/Figura29.png" alt="Alt da imagem fica aqui">
+                                                    <img class="img-fluid" src="imagens/Figura31.png" alt="Alt da imagem fica aqui">
                                                 </div>
                                                 <div class="modal-footer text-center">
                                                 </div>
@@ -127,13 +128,13 @@ include('layout/header.php');
 
                                         </div>
                                     </div>
-                                    <!-- Figura 29 - End -->
-                                </div>
-                                <div class="col-md-3 col-sm-12">
+                                    <!-- Figura 31 - End -->
+
+                                    <div class="col-md-12 col-sm-12">
                                     <!-- Titulo Figura -->
                                     <div class="text-center">
                                         <a href="imagens/Figura30.png" data-bs-toggle="modal" data-bs-target="#Imagem30">
-                                            <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura30.png" alt="Alt da imagem fica aqui">
+                                            <img class="img-fluid wow fadeInUp" data-wow-delay="2.0s" width="300" src="imagens/Figura30.png" alt="Alt da imagem fica aqui">
                                         </a>
                                         <p class="FonteFigura">Lírio-amarelo. <br>Foto: Celso Oliveira </p>
                                     </div>
@@ -153,21 +154,23 @@ include('layout/header.php');
                                     </div>
                                     <!-- Figura 30 - End -->
                                 </div>
-                                <div class="col-md-3 col-sm-12">
+                                </div>
+
+                                <div class="col-md-4 col-sm-12">
                                     <!-- Titulo Figura -->
                                     <div class="text-center">
-                                        <a href="imagens/Figura31.png" data-bs-toggle="modal" data-bs-target="#Imagem31">
-                                            <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura31.png" alt="Alt da imagem fica aqui">
+                                        <a href="imagens/Figura29.png" data-bs-toggle="modal" data-bs-target="#Imagem29">
+                                            <img class="img-fluid wow fadeInRight" data-wow-delay="1.0s" width="400" src="imagens/Figura29.png" alt="Alt da imagem fica aqui">
                                         </a>
-                                        <p class="FonteFigura"> Ipê-amarelo. <br>Foto: wikipedia</p>
+                                        <p class="FonteFigura">Gameleira. <br>Foto: recantodacanastra.com.br</p>
                                     </div>
 
-                                    <!-- Imagem 31 - MODAL -->
-                                    <div class="modal fade text-center" id="Imagem31" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <!-- Imagem 29 - MODAL -->
+                                    <div class="modal fade text-center" id="Imagem29" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                         <div class="modal-dialog modal-dialog-centered modal-lg">
                                             <div class="modal-content">
                                                 <div class="modal-body">
-                                                    <img class="img-fluid" src="imagens/Figura31.png" alt="Alt da imagem fica aqui">
+                                                    <img class="img-fluid" src="imagens/Figura29.png" alt="Alt da imagem fica aqui">
                                                 </div>
                                                 <div class="modal-footer text-center">
                                                 </div>
@@ -175,8 +178,11 @@ include('layout/header.php');
 
                                         </div>
                                     </div>
-                                    <!-- Figura 31 - End -->
+                                    <!-- Figura 29 - End -->
                                 </div>
+                                
+                                
+                                
                             </div>
 
                             <br><br>
@@ -187,7 +193,7 @@ include('layout/header.php');
                                     <!-- Titulo Figura -->
                                     <div class="text-center">
                                         <a href="imagens/Figura32.png" data-bs-toggle="modal" data-bs-target="#Imagem32">
-                                            <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura32.png" alt="Alt da imagem fica aqui">
+                                            <img class="img-fluid wow fadeInLeft" data-wow-delay="2.5s" src="imagens/Figura32.png" alt="Alt da imagem fica aqui">
                                         </a>
                                         <p class="FonteFigura">Coandu-espinho.<br> Foto: Culturamix</p>
                                     </div>
@@ -211,7 +217,7 @@ include('layout/header.php');
                                     <!-- Titulo Figura -->
                                     <div class="text-center">
                                         <a href="imagens/Figura33.png" data-bs-toggle="modal" data-bs-target="#Imagem33">
-                                            <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura33.png" alt="Alt da imagem fica aqui">
+                                            <img class="img-fluid wow fadeInLeft" data-wow-delay="3.0s" width="249"  src="imagens/Figura33.png" alt="Alt da imagem fica aqui">
                                         </a>
                                         <p class="FonteFigura"> Sairá-militar.<br> Foto: Sérgio Mota</p>
                                     </div>
@@ -235,7 +241,7 @@ include('layout/header.php');
                                     <!-- Titulo Figura -->
                                     <div class="text-center">
                                         <a href="imagens/Figura34.png" data-bs-toggle="modal" data-bs-target="#Imagem34">
-                                            <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura34.png" alt="Alt da imagem fica aqui">
+                                            <img class="img-fluid wow fadeInLeft" data-wow-delay="3.5s" width="210" src="imagens/Figura34.png" alt="Alt da imagem fica aqui">
                                         </a>
                                         <p class="FonteFigura">Macrophyes pacoti.<br> Foto: UNILAB. </p>
                                     </div>
@@ -259,7 +265,7 @@ include('layout/header.php');
                                     <!-- Titulo Figura -->
                                     <div class="text-center">
                                         <a href="imagens/Figura35.png" data-bs-toggle="modal" data-bs-target="#Imagem35">
-                                            <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" width="300" src="imagens/Figura35.png" alt="Alt da imagem fica aqui">
+                                            <img class="img-fluid wow fadeInLeft" data-wow-delay="4.0s"width="190" src="imagens/Figura35.png" alt="Alt da imagem fica aqui">
                                         </a>
                                         <p class="FonteFigura"> Jibóia. <br>Foto: InfoEscola</p>
                                     </div>
