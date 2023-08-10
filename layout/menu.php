@@ -50,36 +50,7 @@
 
                         <li class="sidebar-item has-sub">
                             <div class="bd-callout-menu bd-callout-success-menu">
-                                <a href="#" class="MenuTopico sidebar-link <?php if($page=='Topico01'){echo 'ativo';}?>"><span id="menuNumero">01 </span>  VIDA É DIVERSIDADE</a>
-
-                                <ul class="submenu">
-                                    <li class="sidebar-item">
-                                        <a href="Topico01.php?AA=<?php echo $AtividadeAvaliativa ?>#Inicio" class="sidebar-sub <?php if($page=='Topico01'){echo 'ativo';}?>"><span id="menuNumero">
-                                         01 - <span> Início</span>
-                                     </a>
-                                    </li>
-                                    <li class="sidebar-item">
-                                        <a href="Topico01.1.php?AA=<?php echo $AtividadeAvaliativa ?>#SubTopico1.1" class="sidebar-sub <?php if($page=='Topico01.1'){echo 'ativo';}?>"><span id="menuNumero">
-                                        01.1 - <span> O Efeito Estufa e o Aquecimento Global</span>
-                                        </a>
-                                    </li>   
-                                    <li class="sidebar-item">
-                                        <a href="Topico01.2.php?AA=<?php echo $AtividadeAvaliativa ?>#SubTopico1.2" class="sidebar-sub <?php if($page=='Topico01.2'){echo 'ativo';}?>"><span id="menuNumero">
-                                        01.2 - <span> Se o Clima Muda, Tudo Muda</span>
-                                        </a>
-                                    </li>   
-                                    <li class="sidebar-item">
-                                        <a href="Topico01.3.php?AA=<?php echo $AtividadeAvaliativa ?>#SubTopico1.3" class="sidebar-sub <?php if($page=='Topico01.3'){echo 'ativo';}?>"><span id="menuNumero">
-                                        01.3 - <span> Causas e Efeitos das Mudanças Climáticas</span>
-                                        </a>
-                                    </li>                                    
-                                </ul>
-                            </div>
-                        </li>
-
-                        <li class="sidebar-item has-sub">
-                            <div class="bd-callout-menu bd-callout-success-menu">
-                                <a href="#" class="MenuTopico sidebar-link <?php if($page=='Topico02'){echo 'ativo';}?>"><span id="menuNumero">02 </span> JUSTIÇA CLIMÁTICA</a>
+                                <a href="#" class="MenuTopico sidebar-link <?php if($page=='Topico02'){echo 'ativo';}?>"><span id="menuNumero">02 </span>  BIOMAS DO CEARÁ</a>
 
                                 <ul class="submenu">
                                     <li class="sidebar-item">
@@ -89,49 +60,51 @@
                                     </li>
                                     <li class="sidebar-item">
                                         <a href="Topico02.1.php?AA=<?php echo $AtividadeAvaliativa ?>#SubTopico2.1" class="sidebar-sub <?php if($page=='Topico02.1'){echo 'ativo';}?>"><span id="menuNumero">
-                                        02.1 - <span> As Cops e os Acordos Internacionais</span>
+                                        02.1 - <span> Caatinga</span>
+                                        </a>
+                                    </li>   
+                                    <li class="sidebar-item">
+                                        <a href="Topico02.2.php?AA=<?php echo $AtividadeAvaliativa ?>#SubTopico2.2" class="sidebar-sub <?php if($page=='Topico02.2'){echo 'ativo';}?>"><span id="menuNumero">
+                                        02.2 - <span> Mata Atlântica</span>
+                                        </a>
+                                    </li>   
+                                    <li class="sidebar-item">
+                                        <a href="Topico02.3.php?AA=<?php echo $AtividadeAvaliativa ?>#SubTopico2.3" class="sidebar-sub <?php if($page=='Topico02.3'){echo 'ativo';}?>"><span id="menuNumero">
+                                        02.3 - <span> Ecossistemas Associados</span>
                                         </a>
                                     </li>      
                                     <li class="sidebar-item">
-                                        <a href="Topico02.2.php?AA=<?php echo $AtividadeAvaliativa ?>#SubTopico2.2" class="sidebar-sub <?php if($page=='Topico02.2'){echo 'ativo';}?>"><span id="menuNumero">
-                                        02.2 - <span> Acordo de Paris e Justiça Climática</span>
+                                        <a href="Topico02.4.php?AA=<?php echo $AtividadeAvaliativa ?>#SubTopico2.4" class="sidebar-sub <?php if($page=='Topico02.4'){echo 'ativo';}?>"><span id="menuNumero">
+                                        02.4 - <span> Biodiversidade Nativa e Exótica</span>
                                         </a>
-                                    </li>                             
+                                    </li>                               
                                 </ul>
                             </div>
                         </li>
 
                         <li class="sidebar-item has-sub">
                             <div class="bd-callout-menu bd-callout-success-menu">
-                                <a href="#" class="MenuTopico sidebar-link <?php if($page=='Topico03'){echo 'ativo';}?>"><span id="menuNumero">03 </span> ADAPTAÇÕES A UM CLIMA EM MUDANÇA</a>
+                                <a href="#" class="MenuTopico sidebar-link <?php if($page=='Topico03'){echo 'ativo';}?>"><span id="menuNumero">03 </span> UNIDADES DE CONSERVAÇÃO (UCs)</a>
 
                                 <ul class="submenu">
                                     <li class="sidebar-item">
                                         <a href="Topico03.php?AA=<?php echo $AtividadeAvaliativa ?>#Inicio" class="sidebar-sub <?php if($page=='Topico03'){echo 'ativo';}?>"><span id="menuNumero">
                                          03 - <span> Início</span>
                                      </a>
-                                    </li>    
+                                    </li>
                                     <li class="sidebar-item">
                                         <a href="Topico03.1.php?AA=<?php echo $AtividadeAvaliativa ?>#SubTopico3.1" class="sidebar-sub <?php if($page=='Topico03.1'){echo 'ativo';}?>"><span id="menuNumero">
-                                        03.1 - <span> Desacelerando a Mudança Climática</span>
+                                        03.1 - <span> SNUC - Sistema Nacional de Unidades de Conservação</span>
                                         </a>
-                                    </li>     
+                                    </li>      
                                     <li class="sidebar-item">
                                         <a href="Topico03.2.php?AA=<?php echo $AtividadeAvaliativa ?>#SubTopico3.2" class="sidebar-sub <?php if($page=='Topico03.2'){echo 'ativo';}?>"><span id="menuNumero">
-                                        03.2 - <span> Mitigar e Se Adaptar</span>
+                                        03.2 - <span> Categorias de Unidades de Conservação</span>
                                         </a>
-                                    </li>                                  
+                                    </li>                             
                                 </ul>
                             </div>
                         </li>
-
-                        <li class="sidebar-item">
-                            <div class="bd-callout-menu bd-callout-success-menu">
-                                <a href="Topico04.php?AA=<?php echo $AtividadeAvaliativa ?>#SubTopico4" class="MenuTopico sidebar-link <?php if($page=='Topico04'){echo'ativo';}?>"><span id="menuNumero">04 </span>ROLÊ INVESTIGATIVO </a>
-                            </div>
-                        </li>
-
-                        
                                                     
                         <li class="sidebar-item">
                             <div class="bd-callout-menu bd-callout-success-menu">

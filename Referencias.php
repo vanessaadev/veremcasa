@@ -37,23 +37,15 @@ include('layout/header.php');
                             <h2 class="Titulo">REFERÊNCIAS</h2>
                             <br><br>
 
-                            <p class="Texto">Luiz Marques - <strong>“O DECENIO DECISIVO - Propostas para uma política de sobrevivência”</strong> - EDITORA ELEFANTE, 2023</p>
+                            <p class="Texto">Marcel Mazoyer e Laurence Roudart “História das agriculturas no mundo: Do neolítico à crise contemporânea” – Editora Unesp, 2010</p>
+                            <p class="Texto">Walter Steenbock - “A arte de guardar o sol: Padrões da Natureza na reconexão entre florestas, cultivos e gentes” – Bambual Editora, 2021</p>
+                            <p class="Texto">Zé Pedro de Oliveira Costa - “Uma história das florestas brasileiras” – Editora Autêntica, 2022</p>
+                            <p class="Texto">Dayana Andrade, Felipe Pasini - “Vida em Sintropia: Agricultura sintrópica de Ernst Götsch explicada” - Editora Labrador, 2022</p>
+                            <p class="Texto">Ana Primavesi - "Manual do Solo Vivo: Solo Sadio, Planta Sadia, ser Humano Sadio” – Editora Expressão Popular, 2016</p>
 
-                                <p class="Texto">Malcom Ferdinand - <strong>“Uma ecologia decolonial: pensar a partir do mundo caribenho”</strong>, UBU Editora, 2022</p>
-
-                                <p class="Texto">Bruno Latour - <strong>“Diante de Gaia: Oito conferências sobre a natureza no Antropoceno”</strong> – UBU Editora, 2020</p>
-
-                                <p class="Texto">Amitav Ghosh - <strong>“O Grande Desatino: mudanças climáticas e o impensável”</strong> – Quina Editora, 2022</p>
-
-                                <p class="Texto"><a href="https://ecokidsecoteens.mpba.mp.br/noticias/conheca-os-principais-gases-de-efeito-estufa-gee/" target="_blank">https://ecokidsecoteens.mpba.mp.br/noticias/conheca-os-principais-gases-de-efeito-estufa-gee/</a></p>
-
-                                <p><a href="https://netzero.projetodraft.com/cop-27-conheca-a-historia-e-as-principais-decisoes-da-mais-importante-conferencia-climatica-do-mundo" target="_blank"> https://netzero.projetodraft.com/cop-27-conheca-a-historia-e-as-principais-decisoes-da-mais-importante-conferencia-climatica-do-mundo</a></p>
-
-                                <p><a href="https://www.wribrasil.org.br/noticias/10-conclusoes-do-relatorio-do-ipcc-sobre-mudancas-climaticas-de-2023" target="_blank">https://www.wribrasil.org.br/noticias/10-conclusoes-do-relatorio-do-ipcc-sobre-mudancas-climaticas-de-2023</a></p>
-
-                                <p><a href="https://www.sema.ce.gov.br/wp-content/uploads/sites/36/2018/11/M5-Mudan%C3%A7as-Clim%C3%A1ticas-e-Ambientais.pdf" target="_blank">https://www.sema.ce.gov.br/wp-content/uploads/sites/36/2018/11/M5-Mudan%C3%A7as-Clim%C3%A1ticas-e-Ambientais.pdf</a></p>
-
-                                <p><a href="https://antigo.mctic.gov.br/mctic/opencms/ciencia/SEPED/clima/ciencia_do_clima/painel_intergovernamental_sobre_mudanca_do_clima.html" target="_blank">https://antigo.mctic.gov.br/mctic/opencms/ciencia/SEPED/clima/ciencia_do_clima/painel_intergovernamental_sobre_mudanca_do_clima.html</a></p>
+                            <p><a href="https://www.ihu.unisinos.br/noticias/558249-o-clima-na-era-dos-humanos" target="_blank">https://www.ihu.unisinos.br/noticias/558249-o-clima-na-era-dos-humanos</a></p>
+                            <p><a href="https://www.bbc.com/portuguese/noticias/2015/08/150811_plantas_consumo_fn#:~:text=O%20fato%20%C3%A9%20que%20das,consumimos%20apenas%20cerca%20de%20200.&text=E%2C%20a%20maioria%20das%20prote%C3%ADnas,%3A%20milho%2C%20arroz%20e%20trigo" target="_blank">https://www.bbc.com/portuguese/noticias/2015/08/150811_plantas_consumo_fn#:~:text=O%20fato%20%C3%A9%20que%20das,consumimos%20apenas%20cerca%20de%20200.&text=E%2C%20a%20maioria%20das%20prote%C3%ADnas,%3A%20milho%2C%20arroz%20e%20trigo</a>.</p>
+                            <p><a href="https://educa.ibge.gov.br/jovens/conheca-o-brasil/territorio/18311-flora-brasileira.html" target="_blank">https://educa.ibge.gov.br/jovens/conheca-o-brasil/territorio/18311-flora-brasileira.html</a></p>
 
 
                         </div>
@@ -76,7 +68,7 @@ include('layout/header.php');
 
             <!-- Botões de navegação -->
             <div class="text-center">
-                <a href="Topico04.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true"><i class="fa fa-chevron-left"></i> Voltar</a>
+                <a href="Topico03.2.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true"><i class="fa fa-chevron-left"></i> Voltar</a>
                 <!-- <a href="http://cursos.egp.ce.gov.br/mod/quiz/view.php?id=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true"> Realizar Atividade Avaliativa <i class="fa fa-chevron-right"></i></a> -->
             </div>
 

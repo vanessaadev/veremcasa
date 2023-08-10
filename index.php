@@ -32,12 +32,16 @@ include('layout/header.php');
                         <hr>
                         <br>
 
-
                         <p>Olá, AJA!</p>
-                        <p>Tudo bem com você? Está curtindo a nossa jornada? Tenho certeza que nosso curso vem ampliando seus horizontes, mexendo com sua cabeça, modificando o modo como você vê o mundo.</p>
-                        <p>É isso! As questões ambientais estão tão enraizadas no nosso dia a dia, que é impossível estudar sobre elas sem modificar nosso olhar sobre o mundo, sem modificar nossa vida. E esse é o nosso tema de hoje. Neste módulo, vamos literalmente falar da vida. Da nossa e de todos os seres deste Planeta, principalmente do nosso Ceará. Vamos conhecer também nossos biomas e áreas protegidas por lei, fundamentais para a preservação da vida. Bora lá!</p>
+                        <p>Tudo bem com você? Vamos dar mais um passo na nossa jornada formativa? Com certeza, em cada passo nessa trilha, você vem acumulando informações e conhecimento que lhes serão muito útil para uma ação exitosa na sua comunidade.</p>
+                        <p>O conhecimento sobre o Meio Ambiente é amplo. Aqui, neste curso, estaremos sempre buscando conectá-lo com sua própria vida, pois ele é um conhecimento dinâmico, que exige exercício e prática para ser realmente compreendido.</p>
 
+                        <div class="bd-callout bd-callout-primary wow fadeInUp" data-wow-delay="1.0s">
+                            <p>Neste módulo, vamos falar da vida a partir do mundo vegetal. A importância das plantas para a construção da vida como a conhecemos. Como a domesticação das plantas pelo ser humano modificou nossa vida e a paisagem terrestre. Vamos relembrar o impacto do sistema agrícola denominado <em>Plantation</em> devastando florestas. Hoje, herdeiro desse formato, o Agronegócio continua a devastação dos principais Biomas do País e do Planeta. Quais as soluções que se apresentam? Como um AJA pode contribuir para alterar, ou pelo menos mitigar suas consequências?</p>
+                        </div>
 
+                        <p>Já aprendemos que na natureza tudo está interligado. E um de seus principais elos são os seres vegetais. Eles ligam a terra, o ar, a água e os outros seres vivos, criando uma complexa rede, a Teia da Vida.</p>
+                        <p>Vamos nessa, então?</p>
 
                         <!-- SCRIPT LIGHTBOX -->
                         <script>

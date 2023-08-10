@@ -41,508 +41,73 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title Texto">
 
-                        <h2 class="Titulo"> VIDA É DIVERSIDADE</h2>
+                        <h2 class="Titulo"> AS PLANTAS E A VIDA</h2>
                         <hr>
                         <br>
-                        <p>Para falarmos de vida, precisamos falar de diversidade. A <strong>Diversidade</strong> é um pressuposto da vida, de toda vida. Da vida que está fora da gente e da vida que está dentro da gente. Assim como o mundo fora de nós é biodiverso, o mundo dentro de nós também o é. Nós somos seres biodiversos.</p>
 
-                        <p>Biodiversidade é um conceito mais amplo que o “conjunto de seres vivos existentes na Terra”. Ele inclui a diversidade genética, fator fundamental para se compreender os ecossistemas em sua totalidade e integridade.</p>
+                        <p>Nosso planeta, ao longo de 4,5 bilhões de anos, desenvolveu um sistema, que poderíamos chamar de geofisiológico, permitindo a existência da Vida.</p>
+                        <p>A biosfera, esse espaço em que a vida se manifesta sobre o globo terrestre (na terra, na água e no ar) é formado por inúmeros biomas e seus ecossistemas, todos inter-relacionados.</p>
+                        <p>A base desse sistema é formada por comunidades de plantas, animais, fungos, milhares de micro-organismos no solo (<strong>Biocenose</strong>), em permanente troca de matéria e energia. Poderíamos chamar esses ciclos de troca que acontecem dentro dessas comunidades e entre biomas e ecossistemas de <strong>Economia da Vida</strong>.</p>
+                        <p>O primeiro e mais importante dos elementos desse sistema, que promove e mantém a vida, é o Sol. Ele é a grande fonte de energia e calor provedora de todo esse grande organismo chamado Terra. É a partir da sua energia, dos seus raios, banhando a terra de luz, que todos os seres podem fazer girar os processos de troca das substâncias químicas de que são constituídos seus corpos. Quando nos alimentamos, seja uma salada verde, seja um bife suculento, estamos ingerindo energia processada do Sol.</p>
+                        <p>Sim, o Sol derrama seu brilho sobre nós. Sua energia é imprescindível para nossa existência. Mas acontece que, nós não temos aptidão para captar, processar e guardar sua energia. Precisamos terceirizar essa função. E quem capta, processa e armazena o Sol para nós? Quem consegue capturar sua luz para que possamos fazer uso dela transformando-a em glicose, e através da glicose produzir amido, proteínas, aminoácidos? Nossas parceiras, as plantas. Nós, os animais, dependemos totalmente delas para existirmos. E não apenas para “o pão nosso de cada dia”, mas também para o nosso oxigênio de todo instante. Pois no processo da fotossíntese, que produz o alimento para elas e para nós, elas absorvem o CO2 que exalamos e liberam o oxigênio vital para nossa existência.</p>
+                        <p>Nossas irmãs mais velhas, as plantas, precisaram vir antes, milhões de anos antes para que a Vida em sua forma animal pudesse emergir do útero marinho e conquistar a terra.</p>
+                        <p>As plantas surgiram no nosso planeta há mais de 300 milhões de anos. E de lá para cá, foram evoluindo e produzindo o cenário perfeito para o surgimento da biodiversidade que conhecemos.</p>
+                        <p>Os primeiros hominídeos (<strong>Australopitecos</strong>) surgem no planeta por volta de 7 milhões de anos atrás. Pouco se diferenciavam dos demais primatas. Eram onívoros, ou seja, comiam de tudo. Pouco, ou quase nada de técnica e cultura foi desenvolvido por eles. Precisariam mais alguns milhões de anos, e outros degraus e elos evolutivos (<strong><em>Homo erectus, Homo habilis, Homo sapiens neandertalenses</em></strong>), para que, por volta de 40 mil anos antes de nossa era surgir-se o <strong>Homo sapiens sapiens</strong>, herói e vilão de nossa história.</p>
 
-                        <p>Você já se perguntou porque somos parecidos com nossos irmãos, primos, tios, pais, avós? A resposta é: porque temos no nosso corpo moléculas (genes), que nos foram transmitidas por nosso pais, que funcionam como um manual de instruções para o nosso crescimento, funcionamento e reprodução. Cada gene desses tem um papel a desempenhar. Eles são responsáveis pela cor da nossa pele, dos nossos cabelos, dos nossos olhos. Mas também vão dizer da nossa saúde, do nosso desenvolvimento, e junto com os estímulos socioambientais (nossas relações pessoais, nossa alimentação, contato com a natureza, educação, etc.), vão determinar nosso comportamento, desenvolvimento e aprendizagem.</p>
-
-                        <p>Assim como acontece com nós humanos, também acontece com os demais seres vivos. Plantas, bichos, fungos, bactérias, todos têm uma constituição genética que, interagindo com o ecossistema em que eles vivem, vai determinar seu comportamento, seu desenvolvimento e sua função no mundo.</p>
-
-                        <br>
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
-                                <img class="img-fluid wow fadeInLeft" width="700" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
-                            </a>
-                            <p class="FonteFigura"> Diversidade de mamíferos encontrados no Ceará. <br>
-                                Fotos: Castiele Holanda Bezerra, John A. A. Oliveira, Ingrid Andrade e Déborah Praciano de Castro.</p>
-                        </div>
-
-                        <!-- Imagem 01 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem01" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
-                                    </div>
-                                    <div class="modal-footer text-center">
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                        <!-- Figura 01 - End -->
-                        <br>
-
-
-                        <p>Se olharmos para o planeta como um gigantesco organismo, compreenderemos a função e a importância dessa diversidade genética. Cada ser, individualmente e como espécie, com seu conjunto de genes, possui sua função e importância nesse enorme ser vivo chamado Terra.</p>
-
-                        <p>Sem as plantas, por exemplo, não haveria oxigênio, não haveria quem captasse a energia do sol e a transformasse em alimento para todos os animais, inclusive o animal humano. As plantas, porém, precisam das abelhas e outros insetos, para fazer a polinização e assim produzir os frutos. Sem os fungos, não haveria a decomposição e reciclagem da matéria orgânica. Os pássaros, por sua vez, têm a função de disseminar sementes, controlar a população de insetos, dentre outras funções. Tudo está interligado!</p>
-
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura02.png" data-bs-toggle="modal" data-bs-target="#Imagem02">
-                                <img class="img-fluid wow fadeInLeft" src="imagens/Figura02.png" alt="Alt da imagem fica aqui">
-                            </a>
-                            <p class="FonteFigura"> Perereca-Macaco (Pithecopus nordestinus), Perereca-de-capacete (Corythomantis greeningi) e Sapo-boi (Proceratophrys cristiceps).<br>A diversidade de anfíbios encontrados no Ceará. Fotos: Déborah Praciano e Kássio de Castro.
-                            </p>
-                        </div>
-
-                        <!-- Imagem 02 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem02" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura02.png" alt="Alt da imagem fica aqui">
-                                    </div>
-                                    <div class="modal-footer text-center">
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                        <!-- Figura 02 - End -->
-
-
-                        <br>
-                        <!-- Fique Atento -->
-                        <div class="FiqueAtentoCaixa">
-                            <p class="FiqueAtentoTitulo"> Fique Atento</p>
-                            <div class="FiqueAtentoTexto">
-                                <p>Observe no vídeo a seguir a importância do equilíbrio da biodiversidade:</p>
-
-                                <div class="video-responsive">
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/S1wR9HBC49M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                                </div>
-
-                            </div>
-                        </div>
-                        <br><br>
-
-                        <p>A biodiversidade é importante porque é justamente o equilíbrio proporcionado por ela que traz purificação da água e do ar, controle de doenças e pestes, polinização, fixação de carbono no solo, produzindo fertilidade e proteção ao aquecimento global. Esses “serviços” que a natureza nos oferece gratuitamente são chamados de <a href="#" data-toggle="tooltip" data-placement="top" title="São os benefícios que os seres humanos obtém da natureza direta ou indiretamente, através dos ecossistemas, a fim de sustentar a vida no Planeta." style="color: #ffa73e;"><strong>Serviços Ambientais </strong><i class="fa fa-search-plus"></i></a>.</p>
-
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura03.png" data-bs-toggle="modal" data-bs-target="#Imagem03">
-                                <img class="img-fluid wow fadeInLeft" src="imagens/Figura03.png" alt="Alt da imagem fica aqui">
-                            </a>
-                            <p class="FonteFigura">A diversidade de insetos do Ceará: Borboleta-asas-de-vidro (Pseudoscada sp.), Mane-Magro (Stiphra sp.) e Abelha Uruçu (Melipona sp.). <br> Fotos: Eric Andrei, Juliana Lima e Joaquim Saldanha.
-                            </p>
-                        </div>
-
-                        <!-- Imagem 03 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem03" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura03.png" alt="Alt da imagem fica aqui">
-                                    </div>
-                                    <div class="modal-footer text-center">
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                        <!-- Figura 03 - End -->
-
-
-                        <p>O trabalho dos cientistas é fundamental nesse contexto. As pesquisas e estudos que eles realizam sobre a biodiversidade contribuem para que possamos entender como funcionam os ecossistemas e como preservar as espécies, para que elas possam viver, se reproduzir e se perpetuar, mas para que se efetive essa preservação é fundamental a participação de todos.</p>
-
-                        <div class="FiveCols">
-                            <div class="grid-container" style="grid-template-columns: repeat(2, 1fr);">
-                                <!-- Titulo Figura -->
-                                <div class="text-center">
-                                    <a href="imagens/Figura04.png" data-bs-toggle="modal" data-bs-target="#Imagem04">
-                                        <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="295" src="imagens/Figura04.png" alt="Alt da imagem fica aqui">
-                                    </a>
-                                </div>
-
-                                <!-- Imagem 04 - MODAL -->
-                                <div class="modal fade text-center" id="Imagem04" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered modal-lg">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <img class="img-fluid" src="imagens/Figura04.png" alt="Alt da imagem fica aqui">
-                                            </div>
-                                            <div class="modal-footer text-center">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <!-- Figura 04 - End -->
-
-                                <!-- Titulo Figura -->
-                                <div class="text-center">
-                                    <a href="imagens/Figura05.jpg" data-bs-toggle="modal" data-bs-target="#Imagem05">
-                                        <img class="img-fluid wow fadeInUp" data-wow-delay="1.0s" src="imagens/Figura05.jpg" alt="Alt da imagem fica aqui">
-                                    </a>
-                                </div>
-
-                                <!-- Imagem 05 - MODAL -->
-                                <div class="modal fade text-center" id="Imagem05" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered modal-lg">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <img class="img-fluid" src="imagens/Figura05.jpg" alt="Alt da imagem fica aqui">
-                                            </div>
-                                            <div class="modal-footer text-center">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <!-- Figura 05 - End -->
-
-                                <!-- Titulo Figura -->
-                                <div class="text-center">
-                                    <a href="imagens/Figura06.jpg" data-bs-toggle="modal" data-bs-target="#Imagem06">
-                                        <img class="img-fluid wow fadeInLeft" data-wow-delay="1.5s" width="500" src="imagens/Figura06.jpg" alt="Alt da imagem fica aqui">
-                                    </a>
-                                </div>
-
-                                <!-- Imagem 06 - MODAL -->
-                                <div class="modal fade text-center" id="Imagem06" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered modal-lg">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <img class="img-fluid" src="imagens/Figura06.jpg" alt="Alt da imagem fica aqui">
-                                            </div>
-                                            <div class="modal-footer text-center">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <!-- Figura 06 - End -->
-
-                                <!-- Titulo Figura -->
-                                <div class="text-center">
-                                    <a href="imagens/Figura07.jpg" data-bs-toggle="modal" data-bs-target="#Imagem07">
-                                        <img class="img-fluid wow fadeInDown" data-wow-delay="2.0s" width="320" src="imagens/Figura07.jpg" alt="Alt da imagem fica aqui">
-                                    </a>
-                                </div>
-
-                                <!-- Imagem 07 - MODAL -->
-                                <div class="modal fade text-center" id="Imagem07" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered modal-lg">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <img class="img-fluid" src="imagens/Figura07.jpg" alt="Alt da imagem fica aqui">
-                                            </div>
-                                            <div class="modal-footer text-center">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <!-- Figura 07 - End -->
-
-                            </div>
-                        </div>
-
-
-                        <p class="FonteFigura text-center">A diversidade de frutos encontrados no Ceará: caju, tamarindo, siriguela e ameixa.
-                            <br> Fotos: Google.
-                        </p>
-
-
-                        <p>Nessa luta pela diversidade é preciso unir esforços. Do doutor ao agricultor, do menino ao idoso, homem, mulher e quem mais quiser ver a vida fluir. Nessa luta, você AJA, é peça fundamental. Educando, conscientizando, organizando as ações de preservação através de seus Planos de Ação Comunitária.</p>
-
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura08.png" data-bs-toggle="modal" data-bs-target="#Imagem08">
-                                <img class="img-fluid wow fadeInLeft" width="800" src="imagens/Figura08.png" alt="Alt da imagem fica aqui">
-                            </a>
-                            <p class="FonteFigura">PAC Abelhas Sem Ferrão conscientiza os visitantes do Parque Estadual Botânico, em Caucaia/CE, sobre a importância das abelhas nativas. Foto: @ajaabelhassemferrao</p>
-                        </div>
-
-                        <!-- Imagem 08 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem08" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura08.png" alt="Alt da imagem fica aqui">
-                                    </div>
-                                    <div class="modal-footer text-center">
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                        <!-- Figura 08 - End -->
-
-                        <br>
-                        <div class="FiveCols">
-                            <div class="grid-container" style="grid-template-columns: repeat(2, 1fr);">
-                                <!-- Titulo Figura -->
-                                <div class="text-center">
-                                    <a href="imagens/Figura09.jpg" data-bs-toggle="modal" data-bs-target="#Imagem09">
-                                        <img class="img-fluid wow fadeInUp" width="413" src="imagens/Figura09.jpg" alt="Alt da imagem fica aqui">
-                                    </a>
-                                </div>
-
-                                <!-- Imagem 09 - MODAL -->
-                                <div class="modal fade text-center" id="Imagem09" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered modal-lg">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <img class="img-fluid" src="imagens/Figura09.jpg" alt="Alt da imagem fica aqui">
-                                            </div>
-                                            <div class="modal-footer text-center">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <!-- Figura 09 - End -->
-
-                                <!-- Titulo Figura -->
-                                <div class="text-center">
-                                    <a href="imagens/Figura09_1.png" data-bs-toggle="modal" data-bs-target="#Imagem09_1">
-                                        <img class="img-fluid wow fadeInDown" src="imagens/Figura09_1.png" alt="Alt da imagem fica aqui">
-                                    </a>
-
-                                </div>
-
-                                <!-- Imagem 09_1 - MODAL -->
-                                <div class="modal fade text-center" id="Imagem09_1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered modal-lg">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <img class="img-fluid" src="imagens/Figura09_1.png" alt="Alt da imagem fica aqui">
-                                            </div>
-                                            <div class="modal-footer text-center">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <!-- Figura 09_1 - End -->
-
-                            </div>
-                        </div>
-                        <p class="FonteFigura text-center">Os animais domésticos também fazem parte da biodiversidade e precisam de PACs para sua proteção.<br> Fotos: @comedouroparapetnapraia e @ajasdeitapaje</p>
-
+                        <p>Traçamos esse breve histórico evolutivo, porque é importante compreendermos em que momento da nossa história, <strong>nós humanos nos separamos da natureza</strong>. Ou, pelo menos, começamos a achar que a dominávamos e a acreditar que somos algo à parte dela.</p>
 
                         <!-- Saiba Mais -->
                         <div class="SaibaMaisCaixa">
                             <p class="SaibaMaisTitulo"> Saiba Mais</p>
                             <div class="SaibaMaisTexto">
-                                <p>Os animais domésticos são aqueles que, ao longo de milhares de anos, passaram por um processo de domesticação e, portanto, estão acostumados com a presença humana. Eles foram domesticados para atender alguma necessidade do ser humano, seja de alimentação, transporte, entretenimento ou proteção. <a href="https://www.sema.ce.gov.br/wp-content/uploads/sites/36/2018/11/Cartilha-contra-abandono-de-animais.pdf" target="_blank">Confira mais informações sobre os cuidados com os animais domésticos nesta cartilha</a>.</p>
+                                <p> Veja neste incrível vídeo a importância das florestas e como temos nos relacionado com elas.</p>
+
+                                <div class="video-responsive">
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Lb_CFxgugSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                </div>
                             </div>
                         </div>
                         <br><br>
 
-                        <div class="FiveCols">
-                            <div class="grid-container">
-                                <!-- Titulo Figura -->
-                                <div class="text-center">
-                                    <a href="imagens/Figura10.jpg" data-bs-toggle="modal" data-bs-target="#Imagem10">
-                                        <img class="img-fluid wow fadeInLeft" data-wow-delay="0.5s" src="imagens/Figura10.jpg" alt="Alt da imagem fica aqui">
-                                    </a>
 
-                                </div>
+                        <p>Sigamos então essa linha do tempo.</p>
 
-                                <!-- Imagem 10 - MODAL -->
-                                <div class="modal fade text-center" id="Imagem10" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered modal-lg">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <img class="img-fluid" src="imagens/Figura10.jpg" alt="Alt da imagem fica aqui">
-                                            </div>
-                                            <div class="modal-footer text-center">
-                                            </div>
-                                        </div>
+                        <p>Desde seu aparecimento, lá pelo sul do continente africano, o Homo sapiens sapiens vai se deslocando e conquistando todos os “quatro cantos do mundo”. Em pouco mais de 20 mil anos, já havia chegado ao extremo oriente e ao continente americano. Desenvolveu ferramentas, técnicas, linguagem e cultura, o que permitiu a ele, por volta de 10 mil anos antes de nossa era, desenvolver a agricultura.</p>
 
-                                    </div>
-                                </div>
-                                <!-- Figura 10 - End -->
+                        <p>É importante enfatizar que o Planeta vivia um momento de condições climáticas que favoreceu o surgimento de novas formações vegetais, cobrindo os continentes de florestas. Isso favoreceu que o homem caçador-pescador-coletor se fixasse por mais tempo em determinados territórios abundantes de alimentos.</p>
 
-                                <!-- Titulo Figura -->
-                                <div class="text-center">
-                                    <a href="imagens/Figura11.jpg" data-bs-toggle="modal" data-bs-target="#Imagem11">
-                                        <img class="img-fluid wow fadeInLeft" data-wow-delay="1.0s" src="imagens/Figura11.jpg" alt="Alt da imagem fica aqui">
-                                    </a>
-
-                                </div>
-
-                                <!-- Imagem 11 - MODAL -->
-                                <div class="modal fade text-center" id="Imagem11" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered modal-lg">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <img class="img-fluid" src="imagens/Figura11.jpg" alt="Alt da imagem fica aqui">
-                                            </div>
-                                            <div class="modal-footer text-center">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <!-- Figura 11 - End -->
-
-                                <!-- Titulo Figura -->
-                                <div class="text-center">
-                                    <a href="imagens/Figura12.jpg" data-bs-toggle="modal" data-bs-target="#Imagem12">
-                                        <img class="img-fluid wow fadeInLeft" data-wow-delay="1.5s" src="imagens/Figura12.jpg" alt="Alt da imagem fica aqui">
-                                    </a>
-
-                                </div>
-
-                                <!-- Imagem 12 - MODAL -->
-                                <div class="modal fade text-center" id="Imagem12" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered modal-lg">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <img class="img-fluid" src="imagens/Figura12.jpg" alt="Alt da imagem fica aqui">
-                                            </div>
-                                            <div class="modal-footer text-center">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <!-- Figura 12 - End -->
-
-                                <!-- Titulo Figura -->
-                                <div class="text-center">
-                                    <a href="imagens/Figura13.jpg" data-bs-toggle="modal" data-bs-target="#Imagem13">
-                                        <img class="img-fluid wow fadeInLeft" data-wow-delay="2.0s" src="imagens/Figura13.jpg" alt="Alt da imagem fica aqui">
-                                    </a>
-
-                                </div>
-
-                                <!-- Imagem 13 - MODAL -->
-                                <div class="modal fade text-center" id="Imagem13" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered modal-lg">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <img class="img-fluid" src="imagens/Figura13.jpg" alt="Alt da imagem fica aqui">
-                                            </div>
-                                            <div class="modal-footer text-center">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <!-- Figura 13 - End -->
-
-                                <!-- Titulo Figura -->
-                                <div class="text-center">
-                                    <a href="imagens/Figura14.jpg" data-bs-toggle="modal" data-bs-target="#Imagem14">
-                                        <img class="img-fluid wow fadeInLeft" data-wow-delay="2.5s" src="imagens/Figura14.jpg" alt="Alt da imagem fica aqui">
-                                    </a>
-
-                                </div>
-
-                                <!-- Imagem 14 - MODAL -->
-                                <div class="modal fade text-center" id="Imagem14" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered modal-lg">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <img class="img-fluid" src="imagens/Figura14.jpg" alt="Alt da imagem fica aqui">
-                                            </div>
-                                            <div class="modal-footer text-center">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <!-- Figura 14 - End -->
-                            </div>
-                        </div>
-
-                        <p class="FonteFigura text-center">Os fungos são os recicladores da matéria orgânica na natureza. <br> Fotos: Sérgio Mota.</p>
-                        <br><br>
-
-
-
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura15.png" data-bs-toggle="modal" data-bs-target="#Imagem15">
-                                <img class="img-fluid wow fadeIn" width="800" src="imagens/Figura15.png" alt="Alt da imagem fica aqui">
-                            </a>
-                            <p class="FonteFigura">Diversidade de aves no Ceará: Choca-do-nordeste (Sakesphorus cristatus), <br>Tucaninho-da-serra (Selenidera gouldii baturitensis), Pica-pau-dourado-escuro (Piculus chrysochloros), <br>Mãe-da-lua (Nyctibius griseus), Galo-campina (Paroaria dominicana) e Besourinho-de-bico-vermelho (Chlorostilbon lucidus). <br>Fotos: Manoel Monte, Douglas Pinheiro e Adilene Albuquerque. </p>
-                        </div>
-
-                        <!-- Imagem 15 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem15" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura15.png" alt="Alt da imagem fica aqui">
-                                    </div>
-                                    <div class="modal-footer text-center">
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                        <!-- Figura 15 - End -->
-
-
-                        <!-- Curiosidade -->
-                        <div class="CuriosidadeCaixa">
-                            <p class="CuriosidadeTitulo"> Curiosidade</p>
-                            <div class="CuriosidadeTexto">
-                                <p><strong>Biodiversidade no Mundo e no Brasil</strong></p>
-                                <p>De acordo com a <strong><em>WWF</em></strong>, existem entre 10 e 50 milhões de espécies de animais e plantas na Terra. Porém, apenas 1,5 milhão foi catalogada.</p>
-                                <p>Já no Brasil, segundo o Ministério do Meio Ambiente e Mudança do Clima (MMA), o “somos o país com a maior biodiversidade do mundo. São mais de 116.000 espécies animais e mais de 46.000 espécies vegetais conhecidas no País.” Essa diversidade de vida abriga mais de 20% do total de espécies do mundo encontradas em terra e água.</p>
-                            </div>
-                        </div>
-                        <br><br>
-
-                        <!-- Importante -->
-                        <div class="ImportanteCaixa">
-                            <p class="ImportanteTitulo"> Importante</p>
-                            <div class="ImportanteTexto">
-                                <p>É da biodiversidade que provém os nossos alimentos; os remédios para nossa saúde; a matéria-prima para construir nossos abrigos, nossas casas; o ar que respiramos, a água que mata nossa sede, e até a alegria de nossas festas e tradições provém da nossa biodiversidade. É preciso então conhecê-la, pois só se ama e se protege aquilo que conhecemos.</p>
-                                <p>Mas não é só de fauna e flora que vive a nossa riqueza em diversidade genética. Nosso País abriga uma rica sociobiodiversidade, constituída por mais de 300 povos indígenas e diversas comunidades quilombolas, caiçaras e seringueiros, os quais possuem imensurável conhecimento acerca da conservação da biodiversidade.</p>
-                            </div>
-                        </div>
-                        <br><br>
+                        <p>Nesse tempo, nossos antepassados já haviam desenvolvido técnicas que lhes permitiam prover melhores ferramentas (machados, enxadas, etc), utensílios (cerâmica cozida) e moradias mais duráveis. É nesse momento em que se inicia o desenvolvimento da agricultura e da criação (domesticação) de animais.</p>
 
                         <!-- Fique Atento -->
                         <div class="FiqueAtentoCaixa">
                             <p class="FiqueAtentoTitulo"> Fique Atento</p>
                             <div class="FiqueAtentoTexto">
-                                <p> O <strong>Programa Cientista-Chefe Meio Ambiente</strong> catalogou e lançou dois inventários da biodiversidade cearense:</p>
-                                <p><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> O <strong>Inventário da Fauna do Ceará</strong> catalogou <strong>1.275 espécies animais</strong>, sendo 140 mamíferos, 133 répteis, 57 anfíbios, 443 aves e 502 peixes. <a href="https://www.sema.ce.gov.br/fauna-do-ceara/" target="_blank">CLIQUE AQUI para acessar</a></p>
-                                <p><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> O <strong>Inventário da Flora do Ceará</strong> catalogou <strong>2.465 espécies de plantas com flores e frutos</strong>. <a href="https://www.sema.ce.gov.br/flora-do-ceara/" target="_blank">CLIQUE AQUI para acessar</a>.</p>
+                                <p>Veja alguns dos <a href="#" data-toggle="tooltip" data-placement="top" title="São os benefícios que as pessoas obtêm dos ecossistemas, ou seja, são serviços que o meio ambiente desempenha naturalmente e que resultam em benefícios para os seres humanos.">serviços ambientais<i class="fa fa-search-plus"></i></a> proporcionados pelas plantas:</p>
+                                <ul class="none">
+                                    <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> São fundamentais no ciclo da água: absorvem a água do solo e a devolvem em forma de vapor através da transpiração;</li>
+                                    <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Produzem o oxigênio, essencial para a vida, e captam o dióxido de carbono, gás que produz o efeito estufa;</li>
+                                    <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Protegem o solo da erosão causada pelo sol, pela chuva e pelo vento;</li>
+                                    <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Protegem as nascentes, rios, lagos e açudes contra o assoreamento e a entrada de poluentes;</li>
+                                    <li class="wow fadeInDown" data-wow-delay="1.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Abrigam diversos seres vivos essenciais aos ciclos da vida, como polinizadores e decompositores;</li>
+                                    <li class="wow fadeInDown" data-wow-delay="1.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Funcionam como barreira contra pragas agrícolas, poluição sonora, atmosférica e visual;</li>
+                                    <li class="wow fadeInDown" data-wow-delay="2.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Fazem sombra, fornecem alimentos e matéria-prima para as atividades humanas;</li>
+                                    <li class="wow fadeInDown" data-wow-delay="2.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Regulam o macro e microclima, trazendo alívio nos dias mais quentes;</li>
+                                    <li class="wow fadeInDown" data-wow-delay="2.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Embelezam a paisagem e proporcionam bem-estar físico e mental ao ser humano, criando locais agradáveis ao convívio social.</li>
+                                </ul>
+
+
+
+
                             </div>
                         </div>
                         <br><br>
 
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura16.png" data-bs-toggle="modal" data-bs-target="#Imagem16">
-                                <img class="img-fluid wow fadeInLeft" width="800" src="imagens/Figura16.png" alt="Alt da imagem fica aqui">
-                            </a>
-                            <p class="FonteFigura">Diversidade de espécies no Ceará é impressionante! Cobra-verde (Philodryas olfersii), Papa-vento (Enyalius bibronii), <br>Tartaruga-de-pente (Eretmochelys imbricata), Caranguejo-Uça (Ucides cordatus), Aranha - prateada (Argiope argentata) e Marinha-farinha (Ocypode quadrata). <br> Fotos: Victor Rodrigues, Castiele Holanda, Gabriel Chagas, Célio Alves e Pedro Elder.</p>
+
+                        <div class="alert alert-success">
+                            <p>Diante de tantos benefícios que as plantas nos trazem, o mínimo que podemos fazer é cuidar bem delas, respeitando seus ciclos e as utilizando com sabedoria.</p>
                         </div>
 
-                        <!-- Imagem 16 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem16" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura16.png" alt="Alt da imagem fica aqui">
-                                    </div>
-                                    <div class="modal-footer text-center">
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                        <!-- Figura 16 - End -->
-
-
-
+                        
 
 
 
@@ -569,6 +134,7 @@ include('layout/header.php');
 
             <!-- Botões de navegação -->
             <div class="text-center">
+                <a href="index.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true"><i class="fa fa-chevron-left"></i> Voltar </a>
                 <a href="Topico02.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
             </div>
 
