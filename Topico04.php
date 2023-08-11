@@ -918,7 +918,7 @@ include('layout/header.php');
                         <br><br>
 
 
-                        <p class="SubSubTitulo" style="color: #ffa73e;">Trabalhando com a floresta para produzir alimento.</p>
+                        <p class="SubSubTitulo" style="color: #ffa73e;">Trabalhando com a floresta para produzir alimento</p>
                         <hr>
 
                         <p>Na Agrofloresta, o homem, reconhecendo-se parte integrada da natureza, busca entender as leis que criam e mantém uma floresta, e junto com ela torna-se co-criador.</p>
@@ -938,6 +938,31 @@ include('layout/header.php');
                         <p>Primeiro, vêm as ervas, as gramíneas, os arbustos. Depois as arvoretas de crescimento ligeiro. Depois aquelas árvores mais exigentes, que buscam solos mais profundos e precisaram da sombra das que lhes antecederam. Por último, vem as emergentes que tornarão a ocupar a cobertura da floresta. Sol, solo, sementes, a floresta se refaz em ciclos longos e permanentes.</p>
 
                         <p>O agroflorestor, como os pássaros e os mamíferos que se alimentam de vegetais, colhem, comem, plantam floresta, fazendo girar a vida. As abelhas, polinizam colhendo o mel das flores, que alimentam com sua beleza nossa fome estética e prenunciam o nascer do fruto. Os fungos e as bactérias nos ensinam que a vida é eterna mudança e transformação.</p>
+                        <br>
+
+                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura27.jpg" data-bs-toggle="modal" data-bs-target="#Imagem27">
+                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura27.jpg" alt="Alt da imagem fica aqui">
+                            </a>
+                        </div>
+                        <!-- Imagem 27 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem27" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura27.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"></p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 27 - End -->
+                        <br>
+                        <br>
 
 
                         <p>Essa é a ciência que o conquistador na sua ganância predadora não viu, não quis ver. A sabedoria dos povos da floresta, de que todos vivemos no mundo, que somos parte dele, compartilhando com os outros seres, plantas e bichos, o processo vital.</p>
@@ -948,51 +973,101 @@ include('layout/header.php');
 
                         <p>Com a implantação de agroflorestas, há introdução de muitas espécies vegetais ao sistema de cultivo de forma gradual. São os consórcios, os policultivos, quebra-ventos, corredores de vegetação, áreas de plantio separadas por faixas de agroflorestas, módulos de agroflorestas com 50 ou mais espécies vegetais. Esse método irá fazer com que a produção melhore e aumente com o decorrer do tempo.</p>
 
+                        <div class="row">
+                            <div class="col-sm">
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura28.png" data-bs-toggle="modal" data-bs-target="#Imagem28">
+                                        <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura28.png" alt="Alt da imagem fica aqui">
 
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura14.png" data-bs-toggle="modal" data-bs-target="#Imagem14">
-                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
+                                    </a>
+                                </div>
+                                <!-- Imagem 28 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem28" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura28.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                        </div>
 
-                            </a>
-                        </div>
-                        <!-- Imagem 01 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem14" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
                                     </div>
                                 </div>
-
+                                <!-- Figura 28 - End -->
                             </div>
-                        </div>
-                        <!-- Figura 01 - End -->
 
-                        <p>Na monocultura de tangerina, foram inseridas nas entrelinhas: abacaxi, banana, fava e mandioca.</p>
+                            <div class="col-sm">
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura29.png" data-bs-toggle="modal" data-bs-target="#Imagem29">
+                                        <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura29.png" alt="Alt da imagem fica aqui">
 
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura14.png" data-bs-toggle="modal" data-bs-target="#Imagem14">
-                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
+                                    </a>
+                                </div>
+                                <!-- Imagem 29 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem29" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura29.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                        </div>
 
-                            </a>
-                        </div>
-                        <!-- Imagem 01 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem14" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
                                     </div>
                                 </div>
-
+                                <!-- Figura 29 - End -->
                             </div>
                         </div>
-                        <!-- Figura 01 - End -->
 
-                        <p>Após alguns meses, foi feito o consórcio de espécies leguminosas arbustivas e arbóreas adubadeiras.</p>
-                        <p>Em dois anos, surgiu uma floresta cheia de alimentos, bichos, madeiras, matéria orgânica e água.</p>
+                        <p class="FonteFigura text-center">Na monocultura de tangerina, foram inseridas nas entrelinhas: abacaxi, banana, fava e mandioca.</p>
+
+                        <div class="row">
+                            <div class="col-sm">
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura30.png" data-bs-toggle="modal" data-bs-target="#Imagem30">
+                                        <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura30.png" alt="Alt da imagem fica aqui">
+
+                                    </a>
+                                </div>
+                                <!-- Imagem 30 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem30" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura30.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Figura 30 - End -->
+                            </div>
+
+                            <div class="col-sm">
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura31.png" data-bs-toggle="modal" data-bs-target="#Imagem31">
+                                        <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura31.png" alt="Alt da imagem fica aqui">
+
+                                    </a>
+                                </div>
+                                <!-- Imagem 31 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem31" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura31.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Figura 31 - End -->
+                            </div>
+                        </div>
+
+                        <p class="FonteFigura text-center">Após alguns meses, foi feito o consórcio de espécies leguminosas arbustivas e arbóreas adubadeiras. <br> Em dois anos, surgiu uma floresta cheia de alimentos, bichos, madeiras, matéria orgânica e água.</p>
 
 
                         <p>Além das técnicas agroecológicas que aprendemos, uma técnica fundamental da agrofloresta é a poda. Isso porque, com o tempo, as árvores farão sombra sobre outras plantas menores, o que pode prejudicar a fotossíntese. Por meio de podas planejadas, é possível abrir espaços para entrada de luz, estimular o crescimento da planta no sentido desejado e ainda produzir matéria orgânica para o solo.</p>
@@ -1016,106 +1091,129 @@ include('layout/header.php');
 
                         <p>Os princípios da permacultura afirmam que as necessidades humanas estão ligadas a soluções sustentáveis, sempre levando em consideração o equilíbrio entre os ecossistemas naturais e o respeito ao próximo.</p>
 
-                        <p>Os criadores desse conceito são os australianos Bill Mollison e David Holmgren. Na década de 70, percebendo que os recursos naturais da região em que moravam estavam acabando, eles resolveram criar um modelo de trabalho e desenvolvimento em que a agricultura, ligada às atividades humanas e sempre integrada ao meio ambiente, produzisse recursos suficientes e de forma não predatória. Por isso, no início, o conceito era chamado de agricultura permanente. Com o passar dos anos, o termo foi alterado para cultura permanente, cuja abreviação é permacultura.</p>
+                        <p>Os criadores desse conceito são os australianos Bill Mollison e David Holmgren. Na década de 70, percebendo que os recursos naturais da região em que moravam estavam acabando, eles resolveram criar um modelo de trabalho e desenvolvimento em que a <a href="https://www.ecycle.com.br/agricultura/" target="_blank">agricultura</a>, ligada às atividades humanas e sempre integrada ao <a href="https://www.ecycle.com.br/o-que-e-meio-ambiente/" target="_blank">meio ambiente</a>, produzisse recursos suficientes e de forma não predatória. Por isso, no início, o conceito era chamado de agricultura permanente. Com o passar dos anos, o termo foi alterado para cultura permanente, cuja abreviação é permacultura.</p>
 
-                        <p>A partir disso, entram em cena certos pilares básicos, como:</p>
+                        <div class="bd-callout bd-callout-warning">
+                            <p>A partir disso, entram em cena certos pilares básicos, como:</p>
 
-                        <ul class="none">
-                            <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> o cuidado com a terra, para que ela seja saudável e os sistemas de vida se multipliquem;</li>
-                            <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> o cuidado com as pessoas, com o intuito de que todas possam ter acesso aos recursos necessários para sua existência;</li>
-                            <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> a partilha justa dos excedentes, como o dinheiro, o tempo e a energia para poder alcançar os objetivos das outras duas éticas.</li>
-                        </ul>
+                            <ul class="none">
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> o cuidado com a terra, para que ela seja saudável e os sistemas de vida se multipliquem;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> o cuidado com as pessoas, com o intuito de que todas possam ter acesso aos recursos necessários para sua existência;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> a partilha justa dos excedentes, como o dinheiro, o tempo e a energia para poder alcançar os objetivos das outras duas éticas.</li>
+                            </ul>
 
-                        <p>Além dos pilares, o planejamento permacultural segue 12 princípios éticos para se tornar uma filosofia de vida:</p>
+                            <p>Além dos pilares, o <strong>planejamento permacultural</strong> segue 12 princípios éticos para se tornar uma filosofia de vida:</p>
 
-                        <ul class="none">
-                            <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> observe e interaja;</li>
-                            <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> capte e armazene a energia;</li>
-                            <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> obtenha um rendimento;</li>
-                            <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> pratique a autorregulação e aceite retorno;</li>
-                            <li class="wow fadeInDown" data-wow-delay="1.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> use e valorize os serviços e recursos renováveis;</li>
-                            <li class="wow fadeInDown" data-wow-delay="1.9s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> produza e não desperdice;</li>
-                            <li class="wow fadeInDown" data-wow-delay="2.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> desenhe partindo de padrões para chegar a detalhes;</li>
-                            <li class="wow fadeInDown" data-wow-delay="2.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> integre ao invés de segregar;</li>
-                            <li class="wow fadeInDown" data-wow-delay="2.9s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> use soluções pequenas e lentas;</li>
-                            <li class="wow fadeInDown" data-wow-delay="3.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> use e valorize a diversidade;</li>
-                            <li class="wow fadeInDown" data-wow-delay="3.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> utilize caminhos paralelos e ideias criativas e responda à mudança coli criatividade.</p>
-                        </ul>
+                            <ul class="none">
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> observe e interaja;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> capte e armazene a energia;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> obtenha um rendimento;</li>
+                                <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> pratique a autorregulação e aceite retorno;</li>
+                                <li class="wow fadeInDown" data-wow-delay="1.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> use e valorize os serviços e recursos renováveis;</li>
+                                <li class="wow fadeInDown" data-wow-delay="1.9s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> produza e não desperdice;</li>
+                                <li class="wow fadeInDown" data-wow-delay="2.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> desenhe partindo de padrões para chegar a detalhes;</li>
+                                <li class="wow fadeInDown" data-wow-delay="2.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> integre ao invés de segregar;</li>
+                                <li class="wow fadeInDown" data-wow-delay="2.9s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> use soluções pequenas e lentas;</li>
+                                <li class="wow fadeInDown" data-wow-delay="3.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> use e valorize a diversidade;</li>
+                                <li class="wow fadeInDown" data-wow-delay="3.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> utilize caminhos paralelos e ideias criativas e responda à mudança coli criatividade.</p>
+                            </ul>
+                            <br>
 
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura14.png" data-bs-toggle="modal" data-bs-target="#Imagem14">
-                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
+                            <!-- Titulo Figura -->
+                            <div class="text-center">
+                                <a href="imagens/Figura32.png" data-bs-toggle="modal" data-bs-target="#Imagem32">
+                                    <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura32.png" alt="Alt da imagem fica aqui">
 
-                            </a>
-                        </div>
-                        <!-- Imagem 01 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem14" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
-                                    </div>
-                                </div>
-
+                                </a>
                             </div>
+                            <!-- Imagem 32 - MODAL -->
+                            <div class="modal fade text-center" id="Imagem32" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <img class="img-fluid" src="imagens/Figura32.png" alt="Alt da imagem fica aqui">
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Figura 32 - End -->
+                            <br>
+
+
+                            <p>A ideia deu certo, proporcionou alimentos mais saudáveis, uma relação mais justa e com harmonia com a natureza. Como consequência, o modelo cresceu e se expandiu por vários países.</p>
+
+                            <p class="FonteFigura">Fonte: adaptado de <a href="https://www.ecycle.com.br/permacultura/" target="_blank">https://www.ecycle.com.br/permacultura/</a> (acessado em 20/07/2023)</p>
                         </div>
-                        <!-- Figura 01 - End -->
-
-
-                        <p>A ideia deu certo, proporcionou alimentos mais saudáveis, uma relação mais justa e com harmonia com a natureza. Como consequência, o modelo cresceu e se expandiu por vários países.</p>
-
-                        <p>Fonte: adaptado de <a href="https://www.ecycle.com.br/permacultura/" target="_blank">https://www.ecycle.com.br/permacultura/</a> (acessado em 20/07/2023)</p>
+                        <br>
+                        <br>
 
                         <!-- Saiba Mais -->
                         <div class="SaibaMaisCaixa">
                             <p class="SaibaMaisTitulo"> Saiba Mais</p>
                             <div class="SaibaMaisTexto">
                                 <p>Assista ao vídeo para aprender mais sobre Permacultura:</p>
-                                <p>O que é Permacultura e como ela pode salvar o planeta?</p>
+                                <p><strong>O que é Permacultura e como ela pode salvar o planeta?</strong></p>
+
+                                <div class="video-responsive">
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/LIq0td2f34U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                </div>
                             </div>
                         </div>
+                        <br><br>
 
                         <div class="bd-callout bd-callout-primary">
-                            <p><strong>Rolê Regenerativo</strong></p>
-                            <p><strong>“Mas não precisa ser assim” (parte 2)</strong></p>
+                            <h3><strong>Rolê Regenerativo</strong></h3>
+                            <hr>
+                            <p><strong><em>“Mas não precisa ser assim” (parte 2)</em></strong></p>
                             <p>Vamos largar um pouco a leitura e voltar a por a mão na terra?</p>
                             <p>Boné na cabeça e chinelo nos pés. Retornemos ao 1m² demarcado e iniciemos a regeneração desse pedacinho de solo que você cercou. (Lembrando: você pode demarcar com estacas, pedra, ou outro material que você tenha às mãos.)</p>
 
                             <ol>
                                 <li> O primeiro passo é descompactar o solo. Com um enxada ou uma pazinha, revolva a terra permitindo que ela fique solta e arejada. 20 cm de profundidade é o suficiente.</li>
+                                <br>
                                 <li> Limpe toda a área retirando entulhos, pedras e outros empecilhos para plantio da sua mini-floresta.</li>
+                                <br>
                                 <li> Acrescente um pouco de adubo. Pode ser o que você tiver às mãos: Esterco de galinha, estrume de gado, bagana de carnaúba. Se não conseguir nenhum adubo também não tem problemas. Façamos no tempo da natureza. E lembre-se: “O melhor insumo é o conhecimento.”</li>
+                                <br>
                                 <li> Agora cubra o seu solo com palha ou folhas secas. Seja generoso com a terra. Lembre-se que essa cobertura, além de proteger o solo ele também estará criando vida, alimentando a terra. Agora molhe bem a terra e deixe-a descansar.</li>
+                                <br>
                                 <li> Em casa faça um desenho planejando o plantio do seu espaço. No centro você vai plantar uma muda de árvore de sua preferência (se for frutífera melhor). Lembre-se que ela vai crescer. Então observe o espaço que você escolheu. Se for numa calçada ou próximo à um muro ou encanamento, certifique-se que ela não vai causar nenhum transtorno futuro.</li>
+                                <br>
                                 <li> No entorno de sua muda de árvore, insira algumas plantas que auxiliarão no crescimento dela. De preferência plantas resistentes e suculentas que fornecerão sombra e água. Pode ser Palma, Espada de São Jorge, Mandacaru sem espinho, etc. E nas bordas de sua mini-floresta, você vai plantar flores ou hortaliças. Escolha sempre plantas que você gosta e que você tenha à mão.</li>
+                                <br>
                                 <li> Você deve ter percebido que no planejamento estamos criando 03 círculos concêntricos de plantio. Uma muda de árvore ao centro, depois plantas auxiliares no entorno, e nas margem flores, hortaliças, ou outras ervas que você goste.</li>
+                                <br>
                                 <li> Um dia após seu preparo do solo você irá executar o plantio.</li>
+                                <br>
                                 <li> Pronto. Agora você deu o pontapé inicial no seu trabalho de regeneração da natureza. Lembre-se de sempre acompanhar o crescimento do seu canteiro. Se cada AJA fizer a sua parte, teremos 10 mil novas árvores no chão do Ceará.</li>
+                                <br><br>
+
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura33.jpg" data-bs-toggle="modal" data-bs-target="#Imagem33">
+                                        <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura33.jpg" alt="Alt da imagem fica aqui">
+                                    </a>
+                                    <p class="FonteFigura">Foto: @thiago.agrofloresta</p>
+                                </div>
+                                <!-- Imagem 33 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem33" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura33.jpg" alt="Alt da imagem fica aqui">
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Figura 33 - End -->
                             </ol>
 
 
                         </div>
+                        <br><br>
 
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura14.png" data-bs-toggle="modal" data-bs-target="#Imagem14">
-                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
-                                <p class="FonteFigura">Foto: @thiago.agrofloresta</p>
-                            </a>
-                        </div>
-                        <!-- Imagem 01 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem14" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                        <!-- Figura 01 - End -->
 
                         <p>Para finalizarmos esse nosso módulo, apresentaremos a seguir outras ações importantes no trabalho de regenerar os solos e as florestas, no campo e na cidade.</p>
 
@@ -1128,40 +1226,70 @@ include('layout/header.php');
                         <p>Tem a finalidade de promover o resgate e a tradição de cultivar, produzir e armazenar sementes crioulas (nativas), garantindo a autonomia e a soberania alimentar das famílias, não dependendo das sementes vendidas no comércio.</p>
                         <p>A certeza de manutenção das melhores sementes, em local seguro, também pode representar uma saída contra as perdas referentes a problemas como seca ou excesso de chuva. No caso de perda de uma safra, os agricultores ainda podem contar com os grãos estocados.</p>
 
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura14.png" data-bs-toggle="modal" data-bs-target="#Imagem14">
-                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
-                                <p class="FonteFigura">Foto: @thiago.agrofloresta</p>
-                            </a>
-                        </div>
-                        <!-- Imagem 01 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem14" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
+                        <div class="row">
+                            <div class="col-sm">
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura33.png" data-bs-toggle="modal" data-bs-target="#Imagem33">
+                                        <img class="img-fluid wow fadeInLeft" data-wow-delay="0.5s" width="350" src="imagens/Figura33.png" alt="Alt da imagem fica aqui">
+                                    </a>
+                                </div>
+                                <!-- Imagem 33 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem33" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura33.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                        </div>
+
                                     </div>
                                 </div>
+                                <!-- Figura 33 - End -->
+                            </div>
 
+                            <div class="col-sm">
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura34.png" data-bs-toggle="modal" data-bs-target="#Imagem34">
+                                        <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura34.png" alt="Alt da imagem fica aqui">
+                                    </a>
+                                </div>
+                                <!-- Imagem 34 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem34" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura34.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Figura 34 - End -->
                             </div>
                         </div>
-                        <!-- Figura 01 - End -->
+
+                        <p class="FonteFigura text-center">Casa de semente em Tianguá/Ce. <br> Fotos: Virgínia Maria Yunes / Cáritas Brasileira.</p>
+                        <br>
 
 
-
-
-
-                        <p>Casa de semente em Tianguá/Ce. Fotos: Virgínia Maria Yunes / Cáritas Brasileira.</p>
 
                         <!-- Fique Atento -->
                         <div class="FiqueAtentoCaixa">
                             <p class="FiqueAtentoTitulo"> Fique Atento</p>
                             <div class="FiqueAtentoTexto">
-                                <p>A semente crioula é importante na produção agroecológica. A semente é a responsável pela garantia da continuidade da vida vegetal e consequentemente pela grande variedade de espécies existentes em nosso planeta. Elas são ao mesmo tempo, protetoras e propagadoras da sua espécie, carregando dentro de si o embrião, representante da nova vida. Que tal um projeto para criar uma Casa de Sementes na sua comunidade, escola ou região?
-                                    Veja este vídeo sobre Casa de Sementes.</p>
+                                <p>A semente crioula é importante na produção agroecológica. A semente é a responsável pela garantia da continuidade da vida vegetal e consequentemente pela grande variedade de espécies existentes em nosso planeta. Elas são ao mesmo tempo, protetoras e propagadoras da sua espécie, carregando dentro de si o embrião, representante da nova vida. Que tal um projeto para criar uma Casa de Sementes na sua comunidade, escola ou região?</p>
+
+                                <p>Veja este vídeo sobre Casa de Sementes.</p>
+
+                                <div class="video-responsive">
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/G3h8MGvqTIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                </div>
                             </div>
                         </div>
+                        <br>
+                        <br>
 
 
                         <!-- Sub Sub Título -->
@@ -1169,18 +1297,42 @@ include('layout/header.php');
                         <hr>
 
 
-                        <p>Sabendo da importância vital das áreas naturais e considerando que, ao longo da história, o ser humano vem desmatando, queimando e poluindo, é urgente reflorestar nosso planeta a fim de reverter esse quadro.</p>
+                        <p>Sabendo da importância vital das áreas naturais e considerando que, ao longo da história, o ser humano vem desmatando, queimando e poluindo, <strong>é urgente reflorestar nosso planeta a fim de reverter esse quadro</strong>.</p>
                         <p>Existem muitas técnicas e conceitos relacionados ao reflorestamento e à recuperação de áreas degradadas. Não é só sair plantando árvores. São muitos saberes envolvidos: tanto o científico, quanto o popular.</p>
-                        <p>Fazenda Bulcão, antes (2001), e depois de ser transformada em RPPN e passar por reflorestamento com plantas nativas da Mata Atlântica (2019) na Bahia – Foto: Instituto Terra.</p>
+
+                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura35.jpg" data-bs-toggle="modal" data-bs-target="#Imagem35">
+                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" src="imagens/Figura35.jpg" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura">Fazenda Bulcão, antes (2001), e depois de ser transformada em RPPN e passar por reflorestamento com plantas nativas da Mata Atlântica (2019) na Bahia – <br>Foto: Instituto Terra.</p>
+                        </div>
+                        <!-- Imagem 35 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem35" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura35.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 35 - End -->
+                        <br><br>
 
                         <!-- Saiba Mais -->
                         <div class="SaibaMaisCaixa">
                             <p class="SaibaMaisTitulo"> Saiba Mais</p>
                             <div class="SaibaMaisTexto">
                                 <p>Confira o projeto de reflorestamento Olhos D’água:</p>
-                                https://www.youtube.com/watch?v=YWWjmQ9PlMI&t=19s
+
+                                <div class="video-responsive">
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/YWWjmQ9PlMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                </div>
                             </div>
                         </div>
+                        <br><br>
 
 
                         <!-- Sub Sub Título -->
@@ -1193,105 +1345,147 @@ include('layout/header.php');
 
                         <p>Você pode até nem perceber, mas esse ritmo de crescimento urbano também nos causa grandes males, desde o estresse até problemas sérios de saúde. Um estudo brasileiro feito pela Universidade de Brasília comprovou essa relação. Os resultados mostraram que quanto mais contato temos com a natureza, menores serão os eventos de depressão e tristeza. Isso sem falar nas questões imunológicas, pois o contato com a terra, plantas e bichos faz o nosso corpo desenvolver anticorpos.</p>
 
-                        <p>O afastamento das áreas naturais é um dos grandes problemas ambientais atuais, e vem causando o que já discutimos no Módulo 1: a separação humanos e natureza. Reaproximar-se do mundo natural é fundamental para nossa saúde física e mental.</p>
+                        <p><strong>O afastamento das áreas naturais é um dos grandes problemas ambientais atuais, e vem causando o que já discutimos no Módulo 1: a separação humanos e natureza.</strong> Reaproximar-se do mundo natural é fundamental para nossa saúde física e mental.</p>
 
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura14.png" data-bs-toggle="modal" data-bs-target="#Imagem14">
-                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
-                                <p class="FonteFigura">Foto: @thiago.agrofloresta</p>
-                            </a>
-                        </div>
-                        <!-- Imagem 01 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem14" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
+                        <div class="row">
+                            <div class="col-sm">
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura36.png" data-bs-toggle="modal" data-bs-target="#Imagem36">
+                                        <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura36.png" alt="Alt da imagem fica aqui">
+                                    </a>
+                                </div>
+                                <!-- Imagem 36 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem36" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura36.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                        </div>
+
                                     </div>
                                 </div>
+                                <!-- Figura 36 - End -->
+                            </div>
 
+                            <div class="col-sm">
+                                <!-- Titulo Figura -->
+                                <div class="text-center">
+                                    <a href="imagens/Figura37.png" data-bs-toggle="modal" data-bs-target="#Imagem37">
+                                        <img class="img-fluid wow fadeInLeft" data-wow-delay="0.5s" width="350" src="imagens/Figura37.png" alt="Alt da imagem fica aqui">
+                                    </a>
+                                </div>
+                                <!-- Imagem 37 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem37" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura37.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Figura 37 - End -->
                             </div>
                         </div>
-                        <!-- Figura 01 - End -->
+                        <p class="FonteFigura text-center">Lazer em áreas arborizadas proporciona qualidade de vida para a população.</p>
 
-
-                        Lazer em áreas arborizadas proporciona qualidade de vida para a população.
-
-                        <p>E quanto mais nos sentimos felizes nesses ambientes, mais desejamos preservá-los. Por isso é urgente recuperar e criar espaços verdes nas cidades. Quanto mais verde, mais felicidade, mais saúde, mais esporte e mais vontade de preservar.</p>
-
+                        <p><strong>E quanto mais nos sentimos felizes nesses ambientes, mais desejamos preservá-los.</strong> Por isso é urgente recuperar e criar espaços verdes nas cidades. Quanto mais verde, mais felicidade, mais saúde, mais esporte e mais vontade de preservar.</p>
 
 
                         <!-- Fique Atento -->
                         <div class="FiqueAtentoCaixa">
                             <p class="FiqueAtentoTitulo"> Fique Atento</p>
                             <div class="FiqueAtentoTexto">
-                                <p>A árvore é o ser vivo mais evoluído do planeta! Sem sair do lugar, ela faz sombra, produz o oxigênio, capta o gás carbônico, bombeia água pra atmosfera, protege contra erosão, é a casa de um monte de bichos e ainda produz frutos e madeira. Árvore é vida!</p>
-                            </div>
-                        </div>
+                                <p><strong>A árvore é o ser vivo mais evoluído do planeta!</strong> Sem sair do lugar, ela faz sombra, produz o oxigênio, capta o gás carbônico, bombeia água pra atmosfera, protege contra erosão, é a casa de um monte de bichos e ainda produz frutos e madeira. <strong>Árvore é vida!</strong></p>
 
 
+                                <div class="row">
+                                    <div class="col-sm">
+                                        <!-- Titulo Figura -->
+                                        <div class="text-center">
+                                            <a href="imagens/Figura38.jpg" data-bs-toggle="modal" data-bs-target="#Imagem38">
+                                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura38.jpg" alt="Alt da imagem fica aqui">
+                                            </a>
+                                        </div>
+                                        <!-- Imagem 38 - MODAL -->
+                                        <div class="modal fade text-center" id="Imagem38" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <img class="img-fluid" src="imagens/Figura38.jpg" alt="Alt da imagem fica aqui">
+                                                    </div>
+                                                </div>
 
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura14.png" data-bs-toggle="modal" data-bs-target="#Imagem14">
-                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
-                                <p class="FonteFigura">Foto: @thiago.agrofloresta</p>
-                            </a>
-                        </div>
-                        <!-- Imagem 01 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem14" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                        </div>
+                                        <!-- Figura 38 - End -->
+                                    </div>
+
+                                    <div class="col-sm">
+                                        <!-- Titulo Figura -->
+                                        <div class="text-center">
+                                            <a href="imagens/Figura39.png" data-bs-toggle="modal" data-bs-target="#Imagem39">
+                                                <img class="img-fluid wow fadeInLeft" data-wow-delay="0.5s" width="350" src="imagens/Figura39.png" alt="Alt da imagem fica aqui">
+                                            </a>
+                                        </div>
+                                        <!-- Imagem 39 - MODAL -->
+                                        <div class="modal fade text-center" id="Imagem39" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <img class="img-fluid" src="imagens/Figura39.png" alt="Alt da imagem fica aqui">
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                        <!-- Figura 39 - End -->
                                     </div>
                                 </div>
-
+                                <p class="FonteFigura text-center">Rua arborizada em Fortaleza/CE. <br> Foto: SomosVos / @arvoreagua</p>
                             </div>
                         </div>
-                        <!-- Figura 01 - End -->
+                        <br><br>
 
 
 
-
-
-
-                        Rua arborizada em Fortaleza/CE. Foto: SomosVos / @arvoreagua
 
                         <p>Veja alguns dos objetivos da arborização nos municípios:</p>
 
                         <ul class="none">
-                            <li class="wow fadeInDown" data-wow-delay="0.3s"> Reduzir a poluição atmosférica e sonora;</li>
-                            <li class="wow fadeInDown" data-wow-delay="0.6s"> Interceptar a água de chuva;</li>
-                            <li class="wow fadeInDown" data-wow-delay="0.9s"> Sombrear e amenizar a temperatura;</li>
-                            <li class="wow fadeInDown" data-wow-delay="1.3s"> Abrigar e alimentar a biodiversidade;</li>
-                            <li class="wow fadeInDown" data-wow-delay="1.6s"> Embelezar a paisagem;</li>
-                            <li class="wow fadeInDown" data-wow-delay="1.9s"> Promover melhorias no bem-estar psicológico e físico da população.</li>
+                            <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Reduzir a poluição atmosférica e sonora;</li>
+                            <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Interceptar a água de chuva;</li>
+                            <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Sombrear e amenizar a temperatura;</li>
+                            <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Abrigar e alimentar a biodiversidade;</li>
+                            <li class="wow fadeInDown" data-wow-delay="1.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Embelezar a paisagem;</li>
+                            <li class="wow fadeInDown" data-wow-delay="1.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Promover melhorias no bem-estar psicológico e físico da população.</li>
                         </ul>
 
 
                         <!-- Titulo Figura -->
                         <div class="text-center">
-                            <a href="imagens/Figura14.png" data-bs-toggle="modal" data-bs-target="#Imagem14">
-                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
-                                <p class="FonteFigura">Foto: @thiago.agrofloresta</p>
+                            <a href="imagens/Figura40.jpg" data-bs-toggle="modal" data-bs-target="#Imagem40">
+                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura40.jpg" alt="Alt da imagem fica aqui">
+                                <p class="FonteFigura">Praça arborizada em Sobral/CE. <br> Foto: Diário do Nordeste.</p>
                             </a>
                         </div>
-                        <!-- Imagem 01 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem14" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <!-- Imagem 40 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem40" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                             <div class="modal-dialog modal-dialog-centered modal-lg">
                                 <div class="modal-content">
                                     <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
+                                        <img class="img-fluid" src="imagens/Figura40.jpg" alt="Alt da imagem fica aqui">
                                     </div>
                                 </div>
 
                             </div>
                         </div>
-                        <!-- Figura 01 - End -->
+                        <!-- Figura 40 - End -->
+                        <br><br>
 
-                        Praça arborizada em Sobral/CE. Foto: Diário do Nordeste.
 
                         <!-- Curiosidade -->
                         <div class="CuriosidadeCaixa">
@@ -1300,76 +1494,67 @@ include('layout/header.php');
                                 <p>As árvores estão mais presentes na nossa vida do que imaginamos. Elas estão no sobrenome das pessoas (Pereira, Pinheiro, Carvalho, Oliveira, etc.) e no nome dos municípios cearenses (Mulungu, Cedro, Juazeiro do Norte, Carnaubal, Tamboril, etc.). Você tem sobrenome de árvore? Mora em um município com nome de árvore? Fica a dica de projeto para valorizar essa espécie. Ela merece!</p>
                             </div>
                         </div>
+                        <br><br>
 
                         <!-- Importante -->
                         <div class="ImportanteCaixa">
                             <p class="ImportanteTitulo"> Importante</p>
                             <div class="ImportanteTexto">
-                                <p>SAIBA COMO PLANTAR UMA ÁRVORE:</p>
+                                <p><strong>SAIBA COMO PLANTAR UMA ÁRVORE:</strong></p>
 
                                 <ol>
-                                    <li>Escolha mudas de árvores nativas da região.</li>
-                                    <li>Reserve o local adequado para plantar a árvore de acordo com o tamanho que ela pode alcançar para evitar podas mutiladoras.</li>
-                                    <li>Faça um berço (buraco) de 50x50x50 cm.</li>
-                                    <li>Misture a terra que você cavou com adubo orgânico (na proporção de 1 parte de terra para 1 parte de adubo).</li>
-                                    <li>Coloque parte dessa mistura no berço até encher 1/3 do espaço.</li>
-                                    <li>Retire com cuidado a muda do saquinho que a envolve.</li>
-                                    <li>Ponha a planta no berço, cobrindo o espaço com a mistura que sobrou.</li>
-                                    <li>Coloque um tutor (galho, estaca) ao lado da planta e amarre-a suavemente nele para orientar o crescimento e evitar a quebra do caule pelo vento.</li>
-                                    <li>Para protegê-la, cerque-a.</li>
-                                    <li>Para a planta crescer com saúde é preciso regá-la uma vez ao dia, de preferência pela manhã cedo ou ao final da tarde.</li>
+                                    <li class="wow fadeInUp" data-wow-delay="0.3s">Escolha mudas de árvores nativas da região.</li>
+                                    <li class="wow fadeInUp" data-wow-delay="0.6s">Reserve o local adequado para plantar a árvore de acordo com o tamanho que ela pode alcançar para evitar podas mutiladoras.</li>
+                                    <li class="wow fadeInUp" data-wow-delay="0.9s">Faça um berço (buraco) de 50x50x50 cm.</li>
+                                    <li class="wow fadeInUp" data-wow-delay="1.3s">Misture a terra que você cavou com adubo orgânico (na proporção de 1 parte de terra para 1 parte de adubo).</li>
+                                    <li class="wow fadeInUp" data-wow-delay="1.6s">Coloque parte dessa mistura no berço até encher 1/3 do espaço.</li>
+                                    <li class="wow fadeInUp" data-wow-delay="1.9s">Retire com cuidado a muda do saquinho que a envolve.</li>
+                                    <li class="wow fadeInUp" data-wow-delay="2.3s">Ponha a planta no berço, cobrindo o espaço com a mistura que sobrou.</li>
+                                    <li class="wow fadeInUp" data-wow-delay="2.6s">Coloque um tutor (galho, estaca) ao lado da planta e amarre-a suavemente nele para orientar o crescimento e evitar a quebra do caule pelo vento.</li>
+                                    <li class="wow fadeInUp" data-wow-delay="2.9s">Para protegê-la, cerque-a.</li>
+                                    <li class="wow fadeInUp" data-wow-delay="3.3s">Para a planta crescer com saúde é preciso regá-la uma vez ao dia, de preferência pela manhã cedo ou ao final da tarde.</li>
                                 </ol>
 
-                                <p>ATENÇÃO: nunca plante árvores exóticas invasoras. O Programa Estadual de Valorização das Espécies Vegetais Nativas traz a lista de espécies NÃO INDICADAS PARA PLANTIO. Clique aqui e confira.</p>
+
                             </div>
                         </div>
+                        <br><br>
+
+                        <!-- Fique Atento -->
+                        <div class="FiqueAtentoCaixa">
+                            <p class="FiqueAtentoTitulo"> Fique Atento</p>
+                            <div class="FiqueAtentoTexto">
+                                <p>Nunca plante árvores exóticas invasoras. O <strong>Programa Estadual de Valorização das Espécies Vegetais Nativas</strong> traz a lista de espécies NÃO INDICADAS PARA PLANTIO. <a href="https://www.sema.ce.gov.br/wp-content/uploads/sites/36/2021/05/IN-01-2018.pdf" target="_blank">Clique aqui e confira</a>.</p>
+                            </div>
+                        </div>
+                        <br><br>
 
                         <!-- Sub Sub Título -->
                         <p class="SubSubTitulo">RECUPERAÇÃO DE NASCENTES E RECURSOS HÍDRICOS</p>
                         <hr>
-
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura14.png" data-bs-toggle="modal" data-bs-target="#Imagem14">
-                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
-                                <p class="FonteFigura">Foto: @thiago.agrofloresta</p>
-                            </a>
-                        </div>
-                        <!-- Imagem 01 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem14" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                        <!-- Figura 01 - End -->
 
                         <p>Nascente, conhecida como fonte, mina d’água ou olho d’água, é o local onde se iniciam, por exemplo, os recursos hídricos (riachos, rios, lagoas). A vegetação no entorno dessas águas é chamada de Mata Ciliar, que tem a função de proteger contra erosão e absorver a água da chuva, que se infiltra no solo, alimenta os lençóis freáticos, e estes alimentarão as nascentes e olhos D'Água.</p>
 
 
                         <!-- Titulo Figura -->
                         <div class="text-center">
-                            <a href="imagens/Figura14.png" data-bs-toggle="modal" data-bs-target="#Imagem14">
-                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
-                                <p class="FonteFigura">Foto: @thiago.agrofloresta</p>
+                            <a href="imagens/Figura41.png" data-bs-toggle="modal" data-bs-target="#Imagem41">
+                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura41.png" alt="Alt da imagem fica aqui">
+                                <p class="FonteFigura"> Nascente do Riacho Ipuçaba, no município de Ipu/Ceará. <br>Foto: Sema</p>
                             </a>
                         </div>
-                        <!-- Imagem 01 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem14" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <!-- Imagem 41 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem41" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                             <div class="modal-dialog modal-dialog-centered modal-lg">
                                 <div class="modal-content">
                                     <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
+                                        <img class="img-fluid" src="imagens/Figura41.png" alt="Alt da imagem fica aqui">
                                     </div>
                                 </div>
 
                             </div>
                         </div>
-                        <!-- Figura 01 - End -->
+                        <!-- Figura 41 - End -->
 
 
 
@@ -1388,45 +1573,70 @@ include('layout/header.php');
                         <p>Tomando esses cuidados, já é uma boa ajuda para a natureza se recuperar sozinha. Mas às vezes isso não é possível. É preciso uma ajudinha nossa. Veja alguns passos para acelerar a recuperação dessas áreas:</p>
 
                         <ul class="none">
-                            <li class="wow fadeInUp" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i>Cercamento do entorno de nascentes para delimitar o espaço a ser preservado;</li>
-                            <li class="wow fadeInUp" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i>Limpeza da área, com a retirada de lixo e qualquer material estranho;</li>
-                            <li class="wow fadeInUp" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i>Controle de erosão (cobertura vegetal);</li>
-                            <li class="wow fadeInUp" data-wow-delay="1.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i>Replantio com espécies nativas (imitação da natureza);</li>
-                            <li class="wow fadeInUp" data-wow-delay="1.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i>Realizar a manutenção da área protegida, no caso de replantio;</li>
-                            <li class="wow fadeInUp" data-wow-delay="1.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i>Conversa com moradores e frequentadores do local sobre a importância da preservação do meio ambiente.</li>
+                            <li class="wow fadeInUp" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Cercamento do entorno de nascentes para delimitar o espaço a ser preservado;</li>
+                            <li class="wow fadeInUp" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Limpeza da área, com a retirada de lixo e qualquer material estranho;</li>
+                            <li class="wow fadeInUp" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Controle de erosão (cobertura vegetal);</li>
+                            <li class="wow fadeInUp" data-wow-delay="1.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Replantio com espécies nativas (imitação da natureza);</li>
+                            <li class="wow fadeInUp" data-wow-delay="1.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Realizar a manutenção da área protegida, no caso de replantio;</li>
+                            <li class="wow fadeInUp" data-wow-delay="1.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Conversa com moradores e frequentadores do local sobre a importância da preservação do meio ambiente.</li>
                         </ul>
 
                         <!-- Titulo Figura -->
                         <div class="text-center">
-                            <a href="imagens/Figura14.png" data-bs-toggle="modal" data-bs-target="#Imagem14">
-                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="350" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
-                                <p class="FonteFigura">Foto: @thiago.agrofloresta</p>
+                            <a href="imagens/Figura42.png" data-bs-toggle="modal" data-bs-target="#Imagem42">
+                                <img class="img-fluid wow fadeInLeft" data-wow-delay="0.5s" src="imagens/Figura42.png" alt="Alt da imagem fica aqui">
+                                <p class="FonteFigura"></p>
                             </a>
                         </div>
-                        <!-- Imagem 01 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem14" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <!-- Imagem 42 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem42" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                             <div class="modal-dialog modal-dialog-centered modal-lg">
                                 <div class="modal-content">
                                     <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
+                                        <img class="img-fluid" src="imagens/Figura42.png" alt="Alt da imagem fica aqui">
                                     </div>
                                 </div>
 
                             </div>
                         </div>
-                        <!-- Figura 01 - End -->
+                        <!-- Figura 42 - End -->
+                        <br><br>
 
-                        Trecho do Rio Cocó com mata ciliar preservada. Foto: Sema
+                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura43.png" data-bs-toggle="modal" data-bs-target="#Imagem43">
+                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" src="imagens/Figura43.png" alt="Alt da imagem fica aqui">
+                                <p class="FonteFigura">Trecho do Rio Cocó com mata ciliar preservada. <br>Foto: Sema</p>
+                            </a>
+                        </div>
+                        <!-- Imagem 43 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem43" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura43.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 43 - End -->
+                        <br><br>
 
                         <!-- Saiba Mais -->
                         <div class="SaibaMaisCaixa">
                             <p class="SaibaMaisTitulo"> Saiba Mais</p>
                             <div class="SaibaMaisTexto">
-                                <p>Veja neste vídeo um belo exemplo de Projeto de Recuperação de Nascentes.</p>
+                                <p>Veja neste vídeo um belo exemplo de Projeto de <strong>Recuperação de Nascentes</strong>.</p>
+
+                                <div class="video-responsive">
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/aMKw2ExGb4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                </div>
                             </div>
                         </div>
+                        <br><br>
 
-                        <p><strong>Chegamos ao final deste Módulo. Depois de colocar a mão na terra, é hora de testar o conhecimento aprendido.</strong></p>
+                        <p class="alert alert-success"><strong>Chegamos ao final deste Módulo. Depois de colocar a mão na terra, é hora de testar o conhecimento aprendido.</strong></p>
 
 
 
@@ -1458,7 +1668,7 @@ include('layout/header.php');
             <!-- Botões de navegação -->
             <div class="text-center">
                 <a href="Topico03.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true"><i class="fa fa-chevron-left"></i> Voltar</a>
-                <a href="Topico04.2.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
+                <a href="Referencias.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
             </div>
 
         </div> <!-- CONTEUDO FIM -->
